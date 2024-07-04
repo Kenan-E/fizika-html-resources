@@ -1,0 +1,3739 @@
+{
+  "vaultName": "fizika-mesgele",
+  "lastExport": 1720095794328,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon mobile-black-background floating-button-off default-font-color h2-underline",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md",
+    "Excalidraw/Scripts/Downloaded/Text Arch.svg",
+    "Excalidraw/Scripts/Downloaded/Text Arch.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "Excalidraw/Board 1.1.md",
+    "Excalidraw/Board 1.1.svg",
+    "Excalidraw/Board 1.1.png",
+    "Excalidraw/Board 1.2.md",
+    "Excalidraw/Board 1.2.svg",
+    "Excalidraw/Board 1.2.png",
+    "Excalidraw/Board 2.1.md",
+    "Excalidraw/Board 2.1.png",
+    "Excalidraw/Board 2.1.svg",
+    "Excalidraw/Board 2.2.md",
+    "Excalidraw/Board 2.2.svg",
+    "Excalidraw/Board 2.2.png",
+    "Excalidraw/Board 3.1.svg",
+    "Excalidraw/Board 3.1.png",
+    "Excalidraw/Board 3.1.md",
+    "Excalidraw/Board 3.2.svg",
+    "Excalidraw/Board 3.2.md",
+    "Excalidraw/Board 3.2.png",
+    "Excalidraw/Board 3.3.svg",
+    "Excalidraw/Board 3.3.png",
+    "Excalidraw/Board 3.3.md",
+    "Excalidraw/Board 3.4.svg",
+    "Excalidraw/Board 3.4.md",
+    "Excalidraw/Board 3.4.png",
+    "Excalidraw/Board 4.1.svg",
+    "Excalidraw/Board 4.1.md",
+    "Excalidraw/Board 4.1.png",
+    "Excalidraw/Board 4.2.svg",
+    "Excalidraw/Board 4.2.md",
+    "Excalidraw/Board 4.2.png",
+    "Excalidraw/Board 4.3.svg",
+    "Excalidraw/Board 4.3.png",
+    "Excalidraw/Board 4.3.md",
+    "Excalidraw/Board 4.4.svg",
+    "Excalidraw/Board 4.4.md",
+    "Excalidraw/Board 4.4.png",
+    "Excalidraw/Board 4.5.svg",
+    "Excalidraw/Board 4.5.md",
+    "Excalidraw/Board 4.5.png",
+    "Excalidraw/Board 5.1.svg",
+    "Excalidraw/Board 5.1.md",
+    "Excalidraw/Board 5.1.png",
+    "Excalidraw/Board 5.2.svg",
+    "Excalidraw/Board 5.2.png",
+    "Excalidraw/Board 5.2.md",
+    "Excalidraw/Board 5.3.svg",
+    "Excalidraw/Board 5.3.md",
+    "Excalidraw/Board 5.3.png",
+    "Excalidraw/Board 5.4.svg",
+    "Excalidraw/Board 5.4.md",
+    "Excalidraw/Board 5.4.png",
+    "Excalidraw/Board 5.5.svg",
+    "Excalidraw/Board 5.5.md",
+    "Excalidraw/Board 5.5.png",
+    "Excalidraw/Board 5.6.svg",
+    "Excalidraw/Board 5.6.png",
+    "Excalidraw/Board 5.6.md",
+    "Excalidraw/Board 5.7.svg",
+    "Excalidraw/Board 5.7.md",
+    "Excalidraw/Board 5.7.png",
+    "Excalidraw/Board 5.8.svg",
+    "Excalidraw/Board 5.8.md",
+    "Excalidraw/Board 5.8.png",
+    "Excalidraw/Board 5.9.png",
+    "Excalidraw/Board 5.9.svg",
+    "Excalidraw/Board 5.9.md",
+    "Excalidraw/Board 6.1.svg",
+    "Excalidraw/Board 6.1.png",
+    "Excalidraw/Board 6.1.md",
+    "Excalidraw/Board 6.2.md",
+    "Excalidraw/Board 6.2.svg",
+    "Excalidraw/Board 6.2.png",
+    "Excalidraw/Board 6.3.md",
+    "Excalidraw/Board 6.3.svg",
+    "Excalidraw/Board 6.3.png",
+    "Excalidraw/Board 6.4.md",
+    "Excalidraw/Board 6.4.svg",
+    "Excalidraw/Board 6.4.png",
+    "Excalidraw/Board 7.1.md",
+    "Excalidraw/Board 7.1.svg",
+    "Excalidraw/Board 7.1.png",
+    "Excalidraw/Board 7.2.svg",
+    "Excalidraw/Board 7.2.md",
+    "Excalidraw/Board 7.2.png",
+    "Excalidraw/Board 7.3.md",
+    "Excalidraw/Board 7.3.svg",
+    "Excalidraw/Board 7.3.png",
+    "Excalidraw/Board 7.4.md",
+    "Excalidraw/Board 7.4.svg",
+    "Excalidraw/Board 7.4.png",
+    "Excalidraw/Board 7.5.md",
+    "Excalidraw/Board 7.5.svg",
+    "Excalidraw/Board 7.5.png",
+    "Excalidraw/Board 7.6.md",
+    "Excalidraw/Board 7.6.svg",
+    "Excalidraw/Board 7.6.png",
+    "Excalidraw/Board 7.7.md",
+    "Excalidraw/Board 7.7.svg",
+    "Excalidraw/Board 7.7.png",
+    "Excalidraw/Board 7.8.md",
+    "Excalidraw/Board 7.8.svg",
+    "Excalidraw/Board 7.8.png",
+    "Excalidraw/Board 7.9.md",
+    "Excalidraw/Board 7.9.svg",
+    "Excalidraw/Board 7.9.png",
+    "Excalidraw/Board 7.10.md",
+    "Excalidraw/Board 7.10.svg",
+    "Excalidraw/Board 7.10.png",
+    "Excalidraw/Board 8.1.md",
+    "Excalidraw/Board 8.1.svg",
+    "Excalidraw/Board 8.1.png",
+    "Excalidraw/Board 8.2.svg",
+    "Excalidraw/Board 8.2.md",
+    "Excalidraw/Board 8.2.png",
+    "Excalidraw/Board 10.1.md",
+    "Excalidraw/Board 10.1.svg",
+    "Excalidraw/Board 10.1.png",
+    "Excalidraw/Board 10.2.md",
+    "Excalidraw/Board 10.2.svg",
+    "Excalidraw/Board 10.2.png",
+    "Excalidraw/Board 10.3.md",
+    "Excalidraw/Board 10.3.svg",
+    "Excalidraw/Board 10.3.png",
+    "Excalidraw/Board 10.4.md",
+    "Excalidraw/Board 10.4.svg",
+    "Excalidraw/Board 10.4.png",
+    "Excalidraw/Board 10.5.svg",
+    "Excalidraw/Board 10.5.png",
+    "Excalidraw/Board 10.5.md",
+    "Excalidraw/Board 10.6.md",
+    "Excalidraw/Board 10.6.svg",
+    "Excalidraw/Board 10.6.png",
+    "Excalidraw/Board 11.1.md",
+    "Excalidraw/Board 11.1.svg",
+    "Excalidraw/Board 11.1.png",
+    "Excalidraw/Board 11.2.md",
+    "Excalidraw/Board 11.2.svg",
+    "Excalidraw/Board 11.2.png",
+    "Excalidraw/Board 13.1.svg",
+    "Excalidraw/Board 13.1.png",
+    "Excalidraw/Board 13.1.md",
+    "Excalidraw/Board 14.1.svg",
+    "Excalidraw/Board 14.1.md",
+    "Excalidraw/Board 14.1.png",
+    "Excalidraw/Board 14.2.md",
+    "Excalidraw/Board 14.2.svg",
+    "Excalidraw/Board 14.2.png",
+    "Excalidraw/Board 15.1.md",
+    "Excalidraw/Board 15.1.svg",
+    "Excalidraw/Board 15.1.png",
+    "Excalidraw/Board 15.2.md",
+    "Excalidraw/Board 15.2.svg",
+    "Excalidraw/Board 15.2.png",
+    "Excalidraw/Board 15.3.svg",
+    "Excalidraw/Board 15.3.md",
+    "Excalidraw/Board 15.3.png",
+    "Excalidraw/Board 15.4.svg",
+    "Excalidraw/Board 15.4.png",
+    "Excalidraw/Board 15.4.md",
+    "Excalidraw/Board 15.5.md",
+    "Excalidraw/Board 15.5.svg",
+    "Excalidraw/Board 15.5.png",
+    "Excalidraw/Board 15.6.png",
+    "Excalidraw/Board 15.6.md",
+    "Excalidraw/Board 15.6.svg",
+    "Excalidraw/Board 16.1.md",
+    "Excalidraw/Board 16.1.svg",
+    "Excalidraw/Board 16.1.png",
+    "Excalidraw/Board 16.2.svg",
+    "Excalidraw/Board 16.2.png",
+    "Excalidraw/Board 16.2.md",
+    "Excalidraw/Board 16.3.md",
+    "Excalidraw/Board 16.3.svg",
+    "Excalidraw/Board 16.3.png",
+    "Excalidraw/Board 16.4.md",
+    "Excalidraw/Board 16.4.svg",
+    "Excalidraw/Board 16.4.png",
+    "Excalidraw/Board 16.5.md",
+    "Excalidraw/Board 16.5.svg",
+    "Excalidraw/Board 16.5.png",
+    "Excalidraw/Board 16.6.png",
+    "Excalidraw/Board 16.6.svg",
+    "Excalidraw/Board 16.6.md",
+    "Excalidraw/Board 16.7.svg",
+    "Excalidraw/Board 16.7.md",
+    "Excalidraw/Board 16.7.png",
+    "Excalidraw/Board 17.1.svg",
+    "Excalidraw/Board 17.1.png",
+    "Excalidraw/Board 17.1.md",
+    "Excalidraw/Board 17.2.md",
+    "Excalidraw/Board 17.2.svg",
+    "Excalidraw/Board 17.2.png",
+    "Excalidraw/Board 17.3.png",
+    "Excalidraw/Board 17.3.svg",
+    "Excalidraw/Board 17.3.md",
+    "Excalidraw/Board 17.4.svg",
+    "Excalidraw/Board 17.4.md",
+    "Excalidraw/Board 17.4.png",
+    "Excalidraw/Board 18.1.md",
+    "Excalidraw/Board 18.1.svg",
+    "Excalidraw/Board 18.1.png",
+    "Excalidraw/Board 18.2.svg",
+    "Excalidraw/Board 18.2.md",
+    "Excalidraw/Board 18.2.png",
+    "Excalidraw/Board 18.3.svg",
+    "Excalidraw/Board 18.3.md",
+    "Excalidraw/Board 18.3.png",
+    "Excalidraw/Board 18.4.png",
+    "Excalidraw/Board 18.4.md",
+    "Excalidraw/Board 18.4.svg",
+    "Excalidraw/Board 18.5.md",
+    "Excalidraw/Board 18.5.svg",
+    "Excalidraw/Board 18.5.png",
+    "Excalidraw/Board 18.6.png",
+    "Excalidraw/Board 18.6.svg",
+    "Excalidraw/Board 18.6.md",
+    "Excalidraw/Board 18.7.svg",
+    "Excalidraw/Board 18.7.png",
+    "Excalidraw/Board 18.7.md",
+    "Excalidraw/Board 18.8.svg",
+    "Excalidraw/Board 18.8.md",
+    "Excalidraw/Board 18.8.png",
+    "Excalidraw/Board 18.9.svg",
+    "Excalidraw/Board 18.9.md",
+    "Excalidraw/Board 18.9.png",
+    "Excalidraw/Board 19.1.md",
+    "Excalidraw/Board 19.1.svg",
+    "Excalidraw/Board 19.1.png",
+    "Excalidraw/Board 19.2.svg",
+    "Excalidraw/Board 19.2.md",
+    "Excalidraw/Board 19.2.png",
+    "Excalidraw/Board 19.3.md",
+    "Excalidraw/Board 19.3.png",
+    "Excalidraw/Board 19.3.svg",
+    "Excalidraw/Board 19.4.svg",
+    "Excalidraw/Board 19.4.png",
+    "Excalidraw/Board 19.4.md",
+    "Excalidraw/Board 19.5.svg",
+    "Excalidraw/Board 19.5.md",
+    "Excalidraw/Board 19.5.png",
+    "Excalidraw/Board 19.6.md",
+    "Excalidraw/Board 19.6.svg",
+    "Excalidraw/Board 19.6.png",
+    "Excalidraw/Board 19.7.md",
+    "Excalidraw/Board 19.7.svg",
+    "Excalidraw/Board 19.7.png",
+    "Excalidraw/Board 19.8.md",
+    "Excalidraw/Board 19.8.svg",
+    "Excalidraw/Board 19.8.png",
+    "Excalidraw/Board 19.9.png",
+    "Excalidraw/Board 19.9.md",
+    "Excalidraw/Board 19.9.svg",
+    "Excalidraw/Board 19.10.md",
+    "Excalidraw/Board 19.10.svg",
+    "Excalidraw/Board 19.10.png",
+    "Excalidraw/Board 19.11.md",
+    "Excalidraw/Board 19.11.svg",
+    "Excalidraw/Board 19.11.png",
+    "Excalidraw/Board 19.12.svg",
+    "Excalidraw/Board 19.12.md",
+    "Excalidraw/Board 19.12.png",
+    "Excalidraw/Board 19.13.md",
+    "Excalidraw/Board 19.13.svg",
+    "Excalidraw/Board 19.13.png",
+    "Excalidraw/Board 20.1.svg",
+    "Excalidraw/Board 20.1.md",
+    "Excalidraw/Board 20.1.png",
+    "Excalidraw/Board 20.2.md",
+    "Excalidraw/Board 20.2.png",
+    "Excalidraw/Board 20.2.svg",
+    "Excalidraw/Board 20.3.md",
+    "Excalidraw/Board 20.3.svg",
+    "Excalidraw/Board 20.3.png",
+    "Excalidraw/Board 21.1.md",
+    "Excalidraw/Board 21.1.svg",
+    "Excalidraw/Board 21.1.png",
+    "Excalidraw/Board 22.1.svg",
+    "Excalidraw/Board 22.1.md",
+    "Excalidraw/Board 22.1.png",
+    "Excalidraw/Board 22.2.md",
+    "Excalidraw/Board 22.2.svg",
+    "Excalidraw/Board 22.2.png",
+    "Excalidraw/Board 23.1.md",
+    "Excalidraw/Board 23.1.png",
+    "Excalidraw/Board 23.1.svg",
+    "Excalidraw/Board 23.2.svg",
+    "Excalidraw/Board 23.2.md",
+    "Excalidraw/Board 23.2.png",
+    "Excalidraw/Board 23.3.svg",
+    "Excalidraw/Board 23.3.png",
+    "Excalidraw/Board 23.3.md",
+    "Excalidraw/Board 23.4.svg",
+    "Excalidraw/Board 23.4.png",
+    "Excalidraw/Board 23.4.md",
+    "Excalidraw/Board 23.5.svg",
+    "Excalidraw/Board 23.5.png",
+    "Excalidraw/Board 23.5.md",
+    "Excalidraw/Board 24.1.png",
+    "Excalidraw/Board 24.1.svg",
+    "Excalidraw/Board 24.1.md",
+    "Excalidraw/Board 24.2.svg",
+    "Excalidraw/Board 24.2.png",
+    "Excalidraw/Board 24.2.md",
+    "Excalidraw/Board 24.3.svg",
+    "Excalidraw/Board 24.3.md",
+    "Excalidraw/Board 24.3.png",
+    "Excalidraw/Board A.1.md",
+    "Excalidraw/Board A.1.svg",
+    "Excalidraw/Board A.1.png",
+    "Excalidraw/Board A.2.md",
+    "Excalidraw/Board A.2.svg",
+    "Excalidraw/Board A.2.png",
+    "Excalidraw/Board A.3.md",
+    "Excalidraw/Board A.3.png",
+    "Excalidraw/Board A.3.svg",
+    "Excalidraw/Board B.1.md",
+    "Excalidraw/Board B.1.svg",
+    "Excalidraw/Board B.1.png",
+    "Excalidraw/Board B.2.md",
+    "Excalidraw/Board B.2.svg",
+    "Excalidraw/Board B.2.png",
+    "Excalidraw/modulated_wave.svg",
+    "Excalidraw/SVG curve.svg",
+    "Excalidraw/SVG curve(1).svg",
+    "Dərs 1. Mexanika. Kinematikanın əsasları. Düzxətli bərabərsürətli və Dəyişənsürətli hərəkət..md",
+    "Dərs 2. Dəyişənsürətli hərəkət. Ani sürət. Təcil. Bərabərtəcilli hərəkət..md",
+    "Dərs 3. Çevrə üzrə bərabərsürətli hərəkət..md",
+    "Dərs 4. Dinamika. Nyuton qanunları. Qüvvə, sıxlıq, və kütlənin əsas anlayışları..md",
+    "Dərs 5. Ağırlıq və qravitasiya qüvvəsi. Ümumidünya cazibə qanunu..md",
+    "Dərs 6. Elastiklik qüvvəsi. Sürtünmə qüvvəsi..md",
+    "Dərs 7. Statikanın əsasları. Sadə mexanizimlər. Mexanikanın qızıl qaydası..md",
+    "Dərs 8. İmpuls. Enerji. Enerjinin və impulsun saxlanılması qanunu..md",
+    "Dərs 9. Mexaniki iş. Güc. Faydalı iş əmsalı..md",
+    "Dərs 10. Mexaniki rəqslər və dalğalar..md",
+    "Dərs 11. Aero - Hidrostatika. Aero - Hidrodinamika..md",
+    "Dərs 12. Molekulyar kinetik nəzəriyyə (MKN)..md",
+    "Dərs 13. Termodinamikanın əsasları..md",
+    "Dərs 14. Doyan və doymayan buxar..md",
+    "Dərs 15. Bərk cismlərin və mayelərin xassələri..md",
+    "Dərs 16. Elektrik yükü və elektrik sahəsi..md",
+    "Dərs 17. Elektrik tutumu. Elektrik sahəsinin enerjisi..md",
+    "Dərs 18. Sabit cərəyan qanunları..md",
+    "Dərs 19. Müxtəlif mühitlərdə elektrik cərəyanı..md",
+    "Dərs 20. Maqnit sahəsi. Maqnit induksiyası..md",
+    "Dərs 21. Yüklü zərrəciklərin maqnit sahəsində hərəkəti..md",
+    "Dərs 22. Elektromaqnit induksiyası..md",
+    "Dərs 23. Elektromaqnit rəqsləri. Elektromaqnit dalğaları..md",
+    "Dərs 24. Dəyişən elektrik cərəyanı..md",
+    "Dərs A. İstifadə olunmuş bəzi nəzəriyə və anlayışlar..md",
+    "Dərs B. İstifadə olunan bəzi üsullar.md",
+    "Fizika - Digial garden. Yeni nəsil öyrənmə platformu..md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 802,
+      "exportedPath": "excalidraw/scripts/downloaded/change-shape-of-selected-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2173,
+      "exportedPath": "excalidraw/scripts/downloaded/change-shape-of-selected-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 794,
+      "exportedPath": "excalidraw/scripts/downloaded/convert-freedraw-to-line.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2169,
+      "exportedPath": "excalidraw/scripts/downloaded/convert-freedraw-to-line.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 279,
+      "exportedPath": "excalidraw/scripts/downloaded/repeat-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Repeat Elements.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5023,
+      "exportedPath": "excalidraw/scripts/downloaded/repeat-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text Arch.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 327,
+      "exportedPath": "excalidraw/scripts/downloaded/text-arch.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Text Arch.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 1646,
+      "exportedPath": "excalidraw/scripts/downloaded/text-arch.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 713,
+      "exportedPath": "excalidraw/scripts/downloaded/zoom-to-fit-selected-elements.html",
+      "dependencies": []
+    },
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 602,
+      "exportedPath": "excalidraw/scripts/downloaded/zoom-to-fit-selected-elements.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 1.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5658,
+      "exportedPath": "excalidraw/board-1.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 1.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87101,
+      "exportedPath": "excalidraw/board-1.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 1.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24481,
+      "exportedPath": "excalidraw/board-1.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 1.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11848,
+      "exportedPath": "excalidraw/board-1.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 1.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 92767,
+      "exportedPath": "excalidraw/board-1.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 1.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 59097,
+      "exportedPath": "excalidraw/board-1.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 2.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5357,
+      "exportedPath": "excalidraw/board-2.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 2.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12362,
+      "exportedPath": "excalidraw/board-2.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 2.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 86102,
+      "exportedPath": "excalidraw/board-2.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 2.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5856,
+      "exportedPath": "excalidraw/board-2.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 2.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87398,
+      "exportedPath": "excalidraw/board-2.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 2.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19794,
+      "exportedPath": "excalidraw/board-2.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 84726,
+      "exportedPath": "excalidraw/board-3.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6788,
+      "exportedPath": "excalidraw/board-3.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3735,
+      "exportedPath": "excalidraw/board-3.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89052,
+      "exportedPath": "excalidraw/board-3.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5119,
+      "exportedPath": "excalidraw/board-3.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14941,
+      "exportedPath": "excalidraw/board-3.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89216,
+      "exportedPath": "excalidraw/board-3.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18587,
+      "exportedPath": "excalidraw/board-3.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5417,
+      "exportedPath": "excalidraw/board-3.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89557,
+      "exportedPath": "excalidraw/board-3.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4623,
+      "exportedPath": "excalidraw/board-3.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 3.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16521,
+      "exportedPath": "excalidraw/board-3.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87208,
+      "exportedPath": "excalidraw/board-4.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5778,
+      "exportedPath": "excalidraw/board-4.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13407,
+      "exportedPath": "excalidraw/board-4.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 95265,
+      "exportedPath": "excalidraw/board-4.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12266,
+      "exportedPath": "excalidraw/board-4.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29058,
+      "exportedPath": "excalidraw/board-4.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 96830,
+      "exportedPath": "excalidraw/board-4.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13491,
+      "exportedPath": "excalidraw/board-4.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9772,
+      "exportedPath": "excalidraw/board-4.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89476,
+      "exportedPath": "excalidraw/board-4.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8005,
+      "exportedPath": "excalidraw/board-4.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13811,
+      "exportedPath": "excalidraw/board-4.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 145192,
+      "exportedPath": "excalidraw/board-4.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 38847,
+      "exportedPath": "excalidraw/board-4.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 4.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 488526,
+      "exportedPath": "excalidraw/board-4.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 85308,
+      "exportedPath": "excalidraw/board-5.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4622,
+      "exportedPath": "excalidraw/board-5.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13094,
+      "exportedPath": "excalidraw/board-5.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 85298,
+      "exportedPath": "excalidraw/board-5.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11535,
+      "exportedPath": "excalidraw/board-5.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4614,
+      "exportedPath": "excalidraw/board-5.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 86630,
+      "exportedPath": "excalidraw/board-5.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4977,
+      "exportedPath": "excalidraw/board-5.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4849,
+      "exportedPath": "excalidraw/board-5.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88487,
+      "exportedPath": "excalidraw/board-5.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7569,
+      "exportedPath": "excalidraw/board-5.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12888,
+      "exportedPath": "excalidraw/board-5.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 91150,
+      "exportedPath": "excalidraw/board-5.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8600,
+      "exportedPath": "excalidraw/board-5.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18039,
+      "exportedPath": "excalidraw/board-5.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 107520,
+      "exportedPath": "excalidraw/board-5.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 74880,
+      "exportedPath": "excalidraw/board-5.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 21410,
+      "exportedPath": "excalidraw/board-5.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.7.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 104977,
+      "exportedPath": "excalidraw/board-5.7.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.7.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19204,
+      "exportedPath": "excalidraw/board-5.7.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 67483,
+      "exportedPath": "excalidraw/board-5.7.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.8.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 103662,
+      "exportedPath": "excalidraw/board-5.8.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.8.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17825,
+      "exportedPath": "excalidraw/board-5.8.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 62253,
+      "exportedPath": "excalidraw/board-5.8.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29479,
+      "exportedPath": "excalidraw/board-5.9.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.9.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 97978,
+      "exportedPath": "excalidraw/board-5.9.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 5.9.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14402,
+      "exportedPath": "excalidraw/board-5.9.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89933,
+      "exportedPath": "excalidraw/board-6.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14038,
+      "exportedPath": "excalidraw/board-6.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8200,
+      "exportedPath": "excalidraw/board-6.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4296,
+      "exportedPath": "excalidraw/board-6.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 85027,
+      "exportedPath": "excalidraw/board-6.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16247,
+      "exportedPath": "excalidraw/board-6.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16469,
+      "exportedPath": "excalidraw/board-6.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 102109,
+      "exportedPath": "excalidraw/board-6.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10461,
+      "exportedPath": "excalidraw/board-6.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13408,
+      "exportedPath": "excalidraw/board-6.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 99517,
+      "exportedPath": "excalidraw/board-6.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 6.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9351,
+      "exportedPath": "excalidraw/board-6.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7295,
+      "exportedPath": "excalidraw/board-7.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88264,
+      "exportedPath": "excalidraw/board-7.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15306,
+      "exportedPath": "excalidraw/board-7.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 90760,
+      "exportedPath": "excalidraw/board-7.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9093,
+      "exportedPath": "excalidraw/board-7.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 21329,
+      "exportedPath": "excalidraw/board-7.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12148,
+      "exportedPath": "excalidraw/board-7.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 97488,
+      "exportedPath": "excalidraw/board-7.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 47863,
+      "exportedPath": "excalidraw/board-7.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2350,
+      "exportedPath": "excalidraw/board-7.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7027,
+      "exportedPath": "excalidraw/board-7.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5440,
+      "exportedPath": "excalidraw/board-7.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2354,
+      "exportedPath": "excalidraw/board-7.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6858,
+      "exportedPath": "excalidraw/board-7.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4477,
+      "exportedPath": "excalidraw/board-7.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2077,
+      "exportedPath": "excalidraw/board-7.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3943,
+      "exportedPath": "excalidraw/board-7.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2298,
+      "exportedPath": "excalidraw/board-7.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.7.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8365,
+      "exportedPath": "excalidraw/board-7.7.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.7.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89144,
+      "exportedPath": "excalidraw/board-7.7.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14577,
+      "exportedPath": "excalidraw/board-7.7.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.8.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12818,
+      "exportedPath": "excalidraw/board-7.8.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.8.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 107226,
+      "exportedPath": "excalidraw/board-7.8.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 42357,
+      "exportedPath": "excalidraw/board-7.8.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.9.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10573,
+      "exportedPath": "excalidraw/board-7.9.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.9.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 108002,
+      "exportedPath": "excalidraw/board-7.9.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19805,
+      "exportedPath": "excalidraw/board-7.9.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.10.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10460,
+      "exportedPath": "excalidraw/board-7.10.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.10.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 108645,
+      "exportedPath": "excalidraw/board-7.10.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 7.10.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16395,
+      "exportedPath": "excalidraw/board-7.10.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 8.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14700,
+      "exportedPath": "excalidraw/board-8.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 8.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 97177,
+      "exportedPath": "excalidraw/board-8.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 8.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30551,
+      "exportedPath": "excalidraw/board-8.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 8.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 91789,
+      "exportedPath": "excalidraw/board-8.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 8.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9991,
+      "exportedPath": "excalidraw/board-8.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 8.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19772,
+      "exportedPath": "excalidraw/board-8.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5471,
+      "exportedPath": "excalidraw/board-10.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 34549,
+      "exportedPath": "excalidraw/board-10.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14626,
+      "exportedPath": "excalidraw/board-10.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11886,
+      "exportedPath": "excalidraw/board-10.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 98145,
+      "exportedPath": "excalidraw/board-10.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7500,
+      "exportedPath": "excalidraw/board-10.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13392,
+      "exportedPath": "excalidraw/board-10.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 92419,
+      "exportedPath": "excalidraw/board-10.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 33976,
+      "exportedPath": "excalidraw/board-10.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6929,
+      "exportedPath": "excalidraw/board-10.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 91509,
+      "exportedPath": "excalidraw/board-10.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 23365,
+      "exportedPath": "excalidraw/board-10.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 264199,
+      "exportedPath": "excalidraw/board-10.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19727,
+      "exportedPath": "excalidraw/board-10.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 82018,
+      "exportedPath": "excalidraw/board-10.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 35231,
+      "exportedPath": "excalidraw/board-10.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 202235,
+      "exportedPath": "excalidraw/board-10.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 10.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 32278,
+      "exportedPath": "excalidraw/board-10.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 11.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14548,
+      "exportedPath": "excalidraw/board-11.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 11.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 99292,
+      "exportedPath": "excalidraw/board-11.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 11.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 25234,
+      "exportedPath": "excalidraw/board-11.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 11.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7448,
+      "exportedPath": "excalidraw/board-11.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 11.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88397,
+      "exportedPath": "excalidraw/board-11.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 11.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24981,
+      "exportedPath": "excalidraw/board-11.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 13.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15285,
+      "exportedPath": "excalidraw/board-13.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 13.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19873,
+      "exportedPath": "excalidraw/board-13.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 13.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5739,
+      "exportedPath": "excalidraw/board-13.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 14.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88211,
+      "exportedPath": "excalidraw/board-14.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 14.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6685,
+      "exportedPath": "excalidraw/board-14.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 14.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24511,
+      "exportedPath": "excalidraw/board-14.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 14.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6560,
+      "exportedPath": "excalidraw/board-14.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 14.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87014,
+      "exportedPath": "excalidraw/board-14.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 14.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15909,
+      "exportedPath": "excalidraw/board-14.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14186,
+      "exportedPath": "excalidraw/board-15.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 109481,
+      "exportedPath": "excalidraw/board-15.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 35252,
+      "exportedPath": "excalidraw/board-15.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4247,
+      "exportedPath": "excalidraw/board-15.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13794,
+      "exportedPath": "excalidraw/board-15.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15024,
+      "exportedPath": "excalidraw/board-15.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 135586,
+      "exportedPath": "excalidraw/board-15.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8204,
+      "exportedPath": "excalidraw/board-15.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 38697,
+      "exportedPath": "excalidraw/board-15.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 124878,
+      "exportedPath": "excalidraw/board-15.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 22268,
+      "exportedPath": "excalidraw/board-15.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12439,
+      "exportedPath": "excalidraw/board-15.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5810,
+      "exportedPath": "excalidraw/board-15.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 128665,
+      "exportedPath": "excalidraw/board-15.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24211,
+      "exportedPath": "excalidraw/board-15.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 40986,
+      "exportedPath": "excalidraw/board-15.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7010,
+      "exportedPath": "excalidraw/board-15.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 15.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 34412,
+      "exportedPath": "excalidraw/board-15.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4464,
+      "exportedPath": "excalidraw/board-16.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89664,
+      "exportedPath": "excalidraw/board-16.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9200,
+      "exportedPath": "excalidraw/board-16.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 114613,
+      "exportedPath": "excalidraw/board-16.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30229,
+      "exportedPath": "excalidraw/board-16.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9419,
+      "exportedPath": "excalidraw/board-16.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9498,
+      "exportedPath": "excalidraw/board-16.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 98539,
+      "exportedPath": "excalidraw/board-16.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16735,
+      "exportedPath": "excalidraw/board-16.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18958,
+      "exportedPath": "excalidraw/board-16.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 128027,
+      "exportedPath": "excalidraw/board-16.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89581,
+      "exportedPath": "excalidraw/board-16.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9019,
+      "exportedPath": "excalidraw/board-16.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 111304,
+      "exportedPath": "excalidraw/board-16.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29320,
+      "exportedPath": "excalidraw/board-16.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18054,
+      "exportedPath": "excalidraw/board-16.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 113468,
+      "exportedPath": "excalidraw/board-16.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8182,
+      "exportedPath": "excalidraw/board-16.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.7.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 140359,
+      "exportedPath": "excalidraw/board-16.7.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.7.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10177,
+      "exportedPath": "excalidraw/board-16.7.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 16.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 77691,
+      "exportedPath": "excalidraw/board-16.7.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87054,
+      "exportedPath": "excalidraw/board-17.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24191,
+      "exportedPath": "excalidraw/board-17.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7569,
+      "exportedPath": "excalidraw/board-17.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3978,
+      "exportedPath": "excalidraw/board-17.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88938,
+      "exportedPath": "excalidraw/board-17.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16016,
+      "exportedPath": "excalidraw/board-17.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17264,
+      "exportedPath": "excalidraw/board-17.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9149,
+      "exportedPath": "excalidraw/board-17.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7629,
+      "exportedPath": "excalidraw/board-17.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7608,
+      "exportedPath": "excalidraw/board-17.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5701,
+      "exportedPath": "excalidraw/board-17.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 17.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7614,
+      "exportedPath": "excalidraw/board-17.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24041,
+      "exportedPath": "excalidraw/board-18.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 108236,
+      "exportedPath": "excalidraw/board-18.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 60480,
+      "exportedPath": "excalidraw/board-18.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89242,
+      "exportedPath": "excalidraw/board-18.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3986,
+      "exportedPath": "excalidraw/board-18.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15706,
+      "exportedPath": "excalidraw/board-18.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4435,
+      "exportedPath": "excalidraw/board-18.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6432,
+      "exportedPath": "excalidraw/board-18.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9697,
+      "exportedPath": "excalidraw/board-18.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4758,
+      "exportedPath": "excalidraw/board-18.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5016,
+      "exportedPath": "excalidraw/board-18.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3424,
+      "exportedPath": "excalidraw/board-18.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11163,
+      "exportedPath": "excalidraw/board-18.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 101909,
+      "exportedPath": "excalidraw/board-18.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6260,
+      "exportedPath": "excalidraw/board-18.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5866,
+      "exportedPath": "excalidraw/board-18.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 101910,
+      "exportedPath": "excalidraw/board-18.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11191,
+      "exportedPath": "excalidraw/board-18.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.7.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 96567,
+      "exportedPath": "excalidraw/board-18.7.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17728,
+      "exportedPath": "excalidraw/board-18.7.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.7.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10005,
+      "exportedPath": "excalidraw/board-18.7.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.8.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 111454,
+      "exportedPath": "excalidraw/board-18.8.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.8.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13548,
+      "exportedPath": "excalidraw/board-18.8.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 76326,
+      "exportedPath": "excalidraw/board-18.8.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.9.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4016,
+      "exportedPath": "excalidraw/board-18.9.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.9.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4285,
+      "exportedPath": "excalidraw/board-18.9.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 18.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7630,
+      "exportedPath": "excalidraw/board-18.9.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6795,
+      "exportedPath": "excalidraw/board-19.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 100578,
+      "exportedPath": "excalidraw/board-19.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 45837,
+      "exportedPath": "excalidraw/board-19.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87626,
+      "exportedPath": "excalidraw/board-19.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5595,
+      "exportedPath": "excalidraw/board-19.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18512,
+      "exportedPath": "excalidraw/board-19.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6058,
+      "exportedPath": "excalidraw/board-19.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 33464,
+      "exportedPath": "excalidraw/board-19.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87574,
+      "exportedPath": "excalidraw/board-19.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 93141,
+      "exportedPath": "excalidraw/board-19.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17244,
+      "exportedPath": "excalidraw/board-19.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8444,
+      "exportedPath": "excalidraw/board-19.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 90167,
+      "exportedPath": "excalidraw/board-19.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4525,
+      "exportedPath": "excalidraw/board-19.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13256,
+      "exportedPath": "excalidraw/board-19.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.6.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3630,
+      "exportedPath": "excalidraw/board-19.6.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.6.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 84791,
+      "exportedPath": "excalidraw/board-19.6.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12713,
+      "exportedPath": "excalidraw/board-19.6.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.7.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9749,
+      "exportedPath": "excalidraw/board-19.7.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.7.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 94152,
+      "exportedPath": "excalidraw/board-19.7.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 45211,
+      "exportedPath": "excalidraw/board-19.7.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.8.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6907,
+      "exportedPath": "excalidraw/board-19.8.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.8.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 90421,
+      "exportedPath": "excalidraw/board-19.8.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 26678,
+      "exportedPath": "excalidraw/board-19.8.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 63652,
+      "exportedPath": "excalidraw/board-19.9.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.9.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11062,
+      "exportedPath": "excalidraw/board-19.9.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.9.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 101733,
+      "exportedPath": "excalidraw/board-19.9.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.10.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9035,
+      "exportedPath": "excalidraw/board-19.10.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.10.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88646,
+      "exportedPath": "excalidraw/board-19.10.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.10.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 33636,
+      "exportedPath": "excalidraw/board-19.10.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.11.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5780,
+      "exportedPath": "excalidraw/board-19.11.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.11.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8701,
+      "exportedPath": "excalidraw/board-19.11.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.11.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 28357,
+      "exportedPath": "excalidraw/board-19.11.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.12.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 1918,
+      "exportedPath": "excalidraw/board-19.12.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.12.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2692,
+      "exportedPath": "excalidraw/board-19.12.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.12.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5721,
+      "exportedPath": "excalidraw/board-19.12.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.13.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5404,
+      "exportedPath": "excalidraw/board-19.13.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.13.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87817,
+      "exportedPath": "excalidraw/board-19.13.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 19.13.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8614,
+      "exportedPath": "excalidraw/board-19.13.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7740,
+      "exportedPath": "excalidraw/board-20.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3627,
+      "exportedPath": "excalidraw/board-20.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11041,
+      "exportedPath": "excalidraw/board-20.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12429,
+      "exportedPath": "excalidraw/board-20.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30696,
+      "exportedPath": "excalidraw/board-20.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 106742,
+      "exportedPath": "excalidraw/board-20.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9190,
+      "exportedPath": "excalidraw/board-20.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 119956,
+      "exportedPath": "excalidraw/board-20.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 20.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 31367,
+      "exportedPath": "excalidraw/board-20.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 21.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3578,
+      "exportedPath": "excalidraw/board-21.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 21.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14938,
+      "exportedPath": "excalidraw/board-21.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 21.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13864,
+      "exportedPath": "excalidraw/board-21.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 22.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 99044,
+      "exportedPath": "excalidraw/board-22.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 22.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11812,
+      "exportedPath": "excalidraw/board-22.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 22.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16426,
+      "exportedPath": "excalidraw/board-22.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 22.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3553,
+      "exportedPath": "excalidraw/board-22.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 22.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7966,
+      "exportedPath": "excalidraw/board-22.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 22.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11515,
+      "exportedPath": "excalidraw/board-22.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10374,
+      "exportedPath": "excalidraw/board-23.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13971,
+      "exportedPath": "excalidraw/board-23.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89068,
+      "exportedPath": "excalidraw/board-23.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 167296,
+      "exportedPath": "excalidraw/board-23.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 43062,
+      "exportedPath": "excalidraw/board-23.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13248,
+      "exportedPath": "excalidraw/board-23.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 99107,
+      "exportedPath": "excalidraw/board-23.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 43026,
+      "exportedPath": "excalidraw/board-23.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 22079,
+      "exportedPath": "excalidraw/board-23.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.4.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 505439,
+      "exportedPath": "excalidraw/board-23.4.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 143216,
+      "exportedPath": "excalidraw/board-23.4.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.4.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 111931,
+      "exportedPath": "excalidraw/board-23.4.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.5.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10798,
+      "exportedPath": "excalidraw/board-23.5.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16028,
+      "exportedPath": "excalidraw/board-23.5.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 23.5.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4494,
+      "exportedPath": "excalidraw/board-23.5.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30540,
+      "exportedPath": "excalidraw/board-24.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 106055,
+      "exportedPath": "excalidraw/board-24.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7590,
+      "exportedPath": "excalidraw/board-24.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 95985,
+      "exportedPath": "excalidraw/board-24.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14070,
+      "exportedPath": "excalidraw/board-24.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12712,
+      "exportedPath": "excalidraw/board-24.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89716,
+      "exportedPath": "excalidraw/board-24.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8761,
+      "exportedPath": "excalidraw/board-24.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board 24.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11533,
+      "exportedPath": "excalidraw/board-24.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9789,
+      "exportedPath": "excalidraw/board-a.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 93436,
+      "exportedPath": "excalidraw/board-a.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7243,
+      "exportedPath": "excalidraw/board-a.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18186,
+      "exportedPath": "excalidraw/board-a.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 102817,
+      "exportedPath": "excalidraw/board-a.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 48749,
+      "exportedPath": "excalidraw/board-a.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.3.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12058,
+      "exportedPath": "excalidraw/board-a.3.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 39272,
+      "exportedPath": "excalidraw/board-a.3.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board A.3.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 97326,
+      "exportedPath": "excalidraw/board-a.3.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board B.1.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15672,
+      "exportedPath": "excalidraw/board-b.1.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board B.1.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 100313,
+      "exportedPath": "excalidraw/board-b.1.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board B.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 25061,
+      "exportedPath": "excalidraw/board-b.1.png",
+      "dependencies": []
+    },
+    "Excalidraw/Board B.2.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7188,
+      "exportedPath": "excalidraw/board-b.2.html",
+      "dependencies": []
+    },
+    "Excalidraw/Board B.2.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 88559,
+      "exportedPath": "excalidraw/board-b.2.svg",
+      "dependencies": []
+    },
+    "Excalidraw/Board B.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7442,
+      "exportedPath": "excalidraw/board-b.2.png",
+      "dependencies": []
+    },
+    "Excalidraw/modulated_wave.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17813,
+      "exportedPath": "excalidraw/modulated_wave.svg",
+      "dependencies": []
+    },
+    "Excalidraw/SVG curve.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 36485,
+      "exportedPath": "excalidraw/svg-curve.svg",
+      "dependencies": []
+    },
+    "Excalidraw/SVG curve(1).svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 37126,
+      "exportedPath": "excalidraw/svg-curve(1).svg",
+      "dependencies": []
+    },
+    "Dərs 1. Mexanika. Kinematikanın əsasları. Düzxətli bərabərsürətli və Dəyişənsürətli hərəkət..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6102,
+      "exportedPath": "dərs-1.-mexanika.-kinematikanın-əsasları.-düzxətli-bərabərsürətli-və-dəyişənsürətli-hərəkət..html",
+      "dependencies": [
+        "excalidraw/board-1.1.png"
+      ]
+    },
+    "Dərs 2. Dəyişənsürətli hərəkət. Ani sürət. Təcil. Bərabərtəcilli hərəkət..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5402,
+      "exportedPath": "dərs-2.-dəyişənsürətli-hərəkət.-ani-sürət.-təcil.-bərabərtəcilli-hərəkət..html",
+      "dependencies": [
+        "excalidraw/board-2.2.png",
+        "excalidraw/board-1.2.png"
+      ]
+    },
+    "Dərs 3. Çevrə üzrə bərabərsürətli hərəkət..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4305,
+      "exportedPath": "dərs-3.-çevrə-üzrə-bərabərsürətli-hərəkət..html",
+      "dependencies": [
+        "excalidraw/board-3.1.png",
+        "excalidraw/board-3.2.png",
+        "excalidraw/board-3.3.png",
+        "excalidraw/board-3.4.png"
+      ]
+    },
+    "Dərs 4. Dinamika. Nyuton qanunları. Qüvvə, sıxlıq, və kütlənin əsas anlayışları..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6246,
+      "exportedPath": "dərs-4.-dinamika.-nyuton-qanunları.-qüvvə,-sıxlıq,-və-kütlənin-əsas-anlayışları..html",
+      "dependencies": [
+        "excalidraw/board-4.1.png",
+        "excalidraw/board-4.2.png",
+        "excalidraw/board-4.3.png",
+        "excalidraw/board-4.5.png",
+        "excalidraw/board-4.4.png"
+      ]
+    },
+    "Dərs 5. Ağırlıq və qravitasiya qüvvəsi. Ümumidünya cazibə qanunu..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7301,
+      "exportedPath": "dərs-5.-ağırlıq-və-qravitasiya-qüvvəsi.-ümumidünya-cazibə-qanunu..html",
+      "dependencies": [
+        "excalidraw/board-5.1.png",
+        "excalidraw/board-5.2.png",
+        "excalidraw/board-5.3.png",
+        "excalidraw/board-5.4.png",
+        "excalidraw/board-5.9.png",
+        "excalidraw/board-5.5.png",
+        "excalidraw/board-5.6.png",
+        "excalidraw/board-5.7.png",
+        "excalidraw/board-5.8.png"
+      ]
+    },
+    "Dərs 6. Elastiklik qüvvəsi. Sürtünmə qüvvəsi..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6362,
+      "exportedPath": "dərs-6.-elastiklik-qüvvəsi.-sürtünmə-qüvvəsi..html",
+      "dependencies": [
+        "excalidraw/board-6.1.png",
+        "excalidraw/board-6.2.png",
+        "excalidraw/board-6.3.png",
+        "excalidraw/board-6.4.png"
+      ]
+    },
+    "Dərs 7. Statikanın əsasları. Sadə mexanizimlər. Mexanikanın qızıl qaydası..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6117,
+      "exportedPath": "dərs-7.-statikanın-əsasları.-sadə-mexanizimlər.-mexanikanın-qızıl-qaydası..html",
+      "dependencies": [
+        "excalidraw/board-7.1.png",
+        "excalidraw/board-7.2.png",
+        "excalidraw/board-7.3.png",
+        "excalidraw/board-7.4.png",
+        "excalidraw/board-7.5.png",
+        "excalidraw/board-7.6.png",
+        "excalidraw/board-7.7.png",
+        "excalidraw/board-7.8.png",
+        "excalidraw/board-7.9.png",
+        "excalidraw/board-7.10.png"
+      ]
+    },
+    "Dərs 8. İmpuls. Enerji. Enerjinin və impulsun saxlanılması qanunu..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6991,
+      "exportedPath": "dərs-8.-i̇mpuls.-enerji.-enerjinin-və-impulsun-saxlanılması-qanunu..html",
+      "dependencies": [
+        "excalidraw/board-8.1.png",
+        "excalidraw/board-8.2.png"
+      ]
+    },
+    "Dərs 9. Mexaniki iş. Güc. Faydalı iş əmsalı..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3257,
+      "exportedPath": "dərs-9.-mexaniki-iş.-güc.-faydalı-iş-əmsalı..html",
+      "dependencies": []
+    },
+    "Dərs 10. Mexaniki rəqslər və dalğalar..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8543,
+      "exportedPath": "dərs-10.-mexaniki-rəqslər-və-dalğalar..html",
+      "dependencies": [
+        "excalidraw/board-10.1.png",
+        "excalidraw/board-10.2.png",
+        "excalidraw/board-10.3.png",
+        "excalidraw/board-10.4.png",
+        "excalidraw/board-10.5.png",
+        "excalidraw/board-10.6.png"
+      ]
+    },
+    "Dərs 11. Aero - Hidrostatika. Aero - Hidrodinamika..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6487,
+      "exportedPath": "dərs-11.-aero-hidrostatika.-aero-hidrodinamika..html",
+      "dependencies": [
+        "excalidraw/board-11.1.png",
+        "excalidraw/board-11.2.png"
+      ]
+    },
+    "Dərs 12. Molekulyar kinetik nəzəriyyə (MKN)..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7295,
+      "exportedPath": "dərs-12.-molekulyar-kinetik-nəzəriyyə-(mkn)..html",
+      "dependencies": []
+    },
+    "Dərs 13. Termodinamikanın əsasları..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8904,
+      "exportedPath": "dərs-13.-termodinamikanın-əsasları..html",
+      "dependencies": [
+        "excalidraw/board-13.1.png"
+      ]
+    },
+    "Dərs 14. Doyan və doymayan buxar..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6533,
+      "exportedPath": "dərs-14.-doyan-və-doymayan-buxar..html",
+      "dependencies": [
+        "excalidraw/board-14.1.png",
+        "excalidraw/board-14.2.png"
+      ]
+    },
+    "Dərs 15. Bərk cismlərin və mayelərin xassələri..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8181,
+      "exportedPath": "dərs-15.-bərk-cismlərin-və-mayelərin-xassələri..html",
+      "dependencies": [
+        "excalidraw/board-15.1.png",
+        "excalidraw/board-15.2.png",
+        "excalidraw/board-15.3.png",
+        "excalidraw/board-15.4.png",
+        "excalidraw/board-15.5.png",
+        "excalidraw/board-15.6.png"
+      ]
+    },
+    "Dərs 16. Elektrik yükü və elektrik sahəsi..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10715,
+      "exportedPath": "dərs-16.-elektrik-yükü-və-elektrik-sahəsi..html",
+      "dependencies": [
+        "excalidraw/board-16.1.png",
+        "excalidraw/board-16.2.png",
+        "excalidraw/board-16.3.png",
+        "excalidraw/board-16.4.png",
+        "excalidraw/board-16.5.png",
+        "excalidraw/board-16.6.png",
+        "excalidraw/board-16.7.png"
+      ]
+    },
+    "Dərs 17. Elektrik tutumu. Elektrik sahəsinin enerjisi..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4821,
+      "exportedPath": "dərs-17.-elektrik-tutumu.-elektrik-sahəsinin-enerjisi..html",
+      "dependencies": [
+        "excalidraw/board-17.1.png",
+        "excalidraw/board-17.2.png",
+        "excalidraw/board-17.3.png"
+      ]
+    },
+    "Dərs 18. Sabit cərəyan qanunları..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8396,
+      "exportedPath": "dərs-18.-sabit-cərəyan-qanunları..html",
+      "dependencies": [
+        "excalidraw/board-18.1.png",
+        "excalidraw/board-18.2.png",
+        "excalidraw/board-18.3.png",
+        "excalidraw/board-18.4.png",
+        "excalidraw/board-18.5.png",
+        "excalidraw/board-18.6.png",
+        "excalidraw/board-18.7.png",
+        "excalidraw/board-18.8.png",
+        "excalidraw/board-18.9.png"
+      ]
+    },
+    "Dərs 19. Müxtəlif mühitlərdə elektrik cərəyanı..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10367,
+      "exportedPath": "dərs-19.-müxtəlif-mühitlərdə-elektrik-cərəyanı..html",
+      "dependencies": [
+        "excalidraw/board-19.1.png",
+        "excalidraw/board-19.2.png",
+        "excalidraw/board-19.3.png",
+        "excalidraw/board-19.4.png",
+        "excalidraw/board-19.5.png",
+        "excalidraw/board-19.6.png",
+        "excalidraw/board-19.7.png",
+        "excalidraw/board-19.8.png",
+        "excalidraw/board-19.9.png",
+        "excalidraw/board-19.10.png",
+        "excalidraw/board-19.11.png",
+        "excalidraw/board-19.12.png",
+        "excalidraw/board-19.13.png"
+      ]
+    },
+    "Dərs 20. Maqnit sahəsi. Maqnit induksiyası..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4778,
+      "exportedPath": "dərs-20.-maqnit-sahəsi.-maqnit-induksiyası..html",
+      "dependencies": [
+        "excalidraw/board-20.1.png",
+        "excalidraw/board-20.2.png",
+        "excalidraw/board-20.3.png"
+      ]
+    },
+    "Dərs 21. Yüklü zərrəciklərin maqnit sahəsində hərəkəti..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2350,
+      "exportedPath": "dərs-21.-yüklü-zərrəciklərin-maqnit-sahəsində-hərəkəti..html",
+      "dependencies": [
+        "excalidraw/board-21.1.png"
+      ]
+    },
+    "Dərs 22. Elektromaqnit induksiyası..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4939,
+      "exportedPath": "dərs-22.-elektromaqnit-induksiyası..html",
+      "dependencies": [
+        "excalidraw/board-22.1.png",
+        "excalidraw/board-22.2.png"
+      ]
+    },
+    "Dərs 23. Elektromaqnit rəqsləri. Elektromaqnit dalğaları..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9981,
+      "exportedPath": "dərs-23.-elektromaqnit-rəqsləri.-elektromaqnit-dalğaları..html",
+      "dependencies": [
+        "excalidraw/board-23.1.png",
+        "excalidraw/board-23.2.png",
+        "excalidraw/board-23.5.png",
+        "excalidraw/board-23.3.png",
+        "excalidraw/board-23.4.png"
+      ]
+    },
+    "Dərs 24. Dəyişən elektrik cərəyanı..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7550,
+      "exportedPath": "dərs-24.-dəyişən-elektrik-cərəyanı..html",
+      "dependencies": [
+        "excalidraw/board-24.2.png",
+        "excalidraw/board-24.1.png",
+        "excalidraw/board-24.3.png"
+      ]
+    },
+    "Dərs A. İstifadə olunmuş bəzi nəzəriyə və anlayışlar..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 981,
+      "exportedPath": "dərs-a.-i̇stifadə-olunmuş-bəzi-nəzəriyə-və-anlayışlar..html",
+      "dependencies": [
+        "excalidraw/board-a.1.png",
+        "excalidraw/board-a.2.png",
+        "excalidraw/board-a.3.png"
+      ]
+    },
+    "Dərs B. İstifadə olunan bəzi üsullar.md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3599,
+      "exportedPath": "dərs-b.-i̇stifadə-olunan-bəzi-üsullar.html",
+      "dependencies": [
+        "excalidraw/board-b.1.png",
+        "excalidraw/board-b.2.png",
+        "excalidraw/board-2.1.png"
+      ]
+    },
+    "Fizika - Digial garden. Yeni nəsil öyrənmə platformu..md": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2911,
+      "exportedPath": "fizika-digial-garden.-yeni-nəsil-öyrənmə-platformu..html",
+      "dependencies": []
+    },
+    "excalidraw/board-1.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24481,
+      "exportedPath": "excalidraw/board-1.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-2.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19794,
+      "exportedPath": "excalidraw/board-2.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-1.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 59097,
+      "exportedPath": "excalidraw/board-1.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-3.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6788,
+      "exportedPath": "excalidraw/board-3.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-3.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14941,
+      "exportedPath": "excalidraw/board-3.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-3.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18587,
+      "exportedPath": "excalidraw/board-3.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-3.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16521,
+      "exportedPath": "excalidraw/board-3.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-4.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13407,
+      "exportedPath": "excalidraw/board-4.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-4.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29058,
+      "exportedPath": "excalidraw/board-4.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-4.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13491,
+      "exportedPath": "excalidraw/board-4.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-4.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 488526,
+      "exportedPath": "excalidraw/board-4.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-4.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13811,
+      "exportedPath": "excalidraw/board-4.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13094,
+      "exportedPath": "excalidraw/board-5.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11535,
+      "exportedPath": "excalidraw/board-5.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4849,
+      "exportedPath": "excalidraw/board-5.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12888,
+      "exportedPath": "excalidraw/board-5.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29479,
+      "exportedPath": "excalidraw/board-5.9.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18039,
+      "exportedPath": "excalidraw/board-5.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 74880,
+      "exportedPath": "excalidraw/board-5.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 67483,
+      "exportedPath": "excalidraw/board-5.7.png",
+      "dependencies": []
+    },
+    "excalidraw/board-5.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 62253,
+      "exportedPath": "excalidraw/board-5.8.png",
+      "dependencies": []
+    },
+    "excalidraw/board-6.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14038,
+      "exportedPath": "excalidraw/board-6.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-6.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16247,
+      "exportedPath": "excalidraw/board-6.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-6.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 10461,
+      "exportedPath": "excalidraw/board-6.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-6.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9351,
+      "exportedPath": "excalidraw/board-6.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15306,
+      "exportedPath": "excalidraw/board-7.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 21329,
+      "exportedPath": "excalidraw/board-7.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 47863,
+      "exportedPath": "excalidraw/board-7.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5440,
+      "exportedPath": "excalidraw/board-7.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4477,
+      "exportedPath": "excalidraw/board-7.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 2298,
+      "exportedPath": "excalidraw/board-7.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14577,
+      "exportedPath": "excalidraw/board-7.7.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 42357,
+      "exportedPath": "excalidraw/board-7.8.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19805,
+      "exportedPath": "excalidraw/board-7.9.png",
+      "dependencies": []
+    },
+    "excalidraw/board-7.10.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16395,
+      "exportedPath": "excalidraw/board-7.10.png",
+      "dependencies": []
+    },
+    "excalidraw/board-8.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30551,
+      "exportedPath": "excalidraw/board-8.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-8.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19772,
+      "exportedPath": "excalidraw/board-8.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-10.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14626,
+      "exportedPath": "excalidraw/board-10.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-10.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7500,
+      "exportedPath": "excalidraw/board-10.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-10.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 33976,
+      "exportedPath": "excalidraw/board-10.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-10.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 23365,
+      "exportedPath": "excalidraw/board-10.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-10.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19727,
+      "exportedPath": "excalidraw/board-10.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-10.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 32278,
+      "exportedPath": "excalidraw/board-10.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-11.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 25234,
+      "exportedPath": "excalidraw/board-11.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-11.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24981,
+      "exportedPath": "excalidraw/board-11.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-13.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19873,
+      "exportedPath": "excalidraw/board-13.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-14.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24511,
+      "exportedPath": "excalidraw/board-14.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-14.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15909,
+      "exportedPath": "excalidraw/board-14.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-15.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 35252,
+      "exportedPath": "excalidraw/board-15.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-15.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15024,
+      "exportedPath": "excalidraw/board-15.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-15.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 38697,
+      "exportedPath": "excalidraw/board-15.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-15.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 22268,
+      "exportedPath": "excalidraw/board-15.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-15.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24211,
+      "exportedPath": "excalidraw/board-15.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-15.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 40986,
+      "exportedPath": "excalidraw/board-15.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9200,
+      "exportedPath": "excalidraw/board-16.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30229,
+      "exportedPath": "excalidraw/board-16.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16735,
+      "exportedPath": "excalidraw/board-16.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 89581,
+      "exportedPath": "excalidraw/board-16.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29320,
+      "exportedPath": "excalidraw/board-16.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18054,
+      "exportedPath": "excalidraw/board-16.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-16.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 77691,
+      "exportedPath": "excalidraw/board-16.7.png",
+      "dependencies": []
+    },
+    "excalidraw/board-17.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 24191,
+      "exportedPath": "excalidraw/board-17.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-17.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16016,
+      "exportedPath": "excalidraw/board-17.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-17.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17264,
+      "exportedPath": "excalidraw/board-17.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 60480,
+      "exportedPath": "excalidraw/board-18.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15706,
+      "exportedPath": "excalidraw/board-18.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9697,
+      "exportedPath": "excalidraw/board-18.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 4758,
+      "exportedPath": "excalidraw/board-18.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 6260,
+      "exportedPath": "excalidraw/board-18.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5866,
+      "exportedPath": "excalidraw/board-18.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17728,
+      "exportedPath": "excalidraw/board-18.7.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 76326,
+      "exportedPath": "excalidraw/board-18.8.png",
+      "dependencies": []
+    },
+    "excalidraw/board-18.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7630,
+      "exportedPath": "excalidraw/board-18.9.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 45837,
+      "exportedPath": "excalidraw/board-19.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 18512,
+      "exportedPath": "excalidraw/board-19.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 33464,
+      "exportedPath": "excalidraw/board-19.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17244,
+      "exportedPath": "excalidraw/board-19.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13256,
+      "exportedPath": "excalidraw/board-19.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.6.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12713,
+      "exportedPath": "excalidraw/board-19.6.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.7.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 45211,
+      "exportedPath": "excalidraw/board-19.7.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.8.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 26678,
+      "exportedPath": "excalidraw/board-19.8.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.9.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 63652,
+      "exportedPath": "excalidraw/board-19.9.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.10.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 33636,
+      "exportedPath": "excalidraw/board-19.10.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.11.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 28357,
+      "exportedPath": "excalidraw/board-19.11.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.12.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5721,
+      "exportedPath": "excalidraw/board-19.12.png",
+      "dependencies": []
+    },
+    "excalidraw/board-19.13.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 8614,
+      "exportedPath": "excalidraw/board-19.13.png",
+      "dependencies": []
+    },
+    "excalidraw/board-20.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11041,
+      "exportedPath": "excalidraw/board-20.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-20.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30696,
+      "exportedPath": "excalidraw/board-20.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-20.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 31367,
+      "exportedPath": "excalidraw/board-20.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-21.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13864,
+      "exportedPath": "excalidraw/board-21.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-22.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16426,
+      "exportedPath": "excalidraw/board-22.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-22.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11515,
+      "exportedPath": "excalidraw/board-22.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-23.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13971,
+      "exportedPath": "excalidraw/board-23.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-23.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 13248,
+      "exportedPath": "excalidraw/board-23.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-23.5.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 16028,
+      "exportedPath": "excalidraw/board-23.5.png",
+      "dependencies": []
+    },
+    "excalidraw/board-23.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 43026,
+      "exportedPath": "excalidraw/board-23.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-23.4.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 143216,
+      "exportedPath": "excalidraw/board-23.4.png",
+      "dependencies": []
+    },
+    "excalidraw/board-24.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14070,
+      "exportedPath": "excalidraw/board-24.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-24.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 30540,
+      "exportedPath": "excalidraw/board-24.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-24.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11533,
+      "exportedPath": "excalidraw/board-24.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-a.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7243,
+      "exportedPath": "excalidraw/board-a.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-a.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 48749,
+      "exportedPath": "excalidraw/board-a.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-a.3.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 39272,
+      "exportedPath": "excalidraw/board-a.3.png",
+      "dependencies": []
+    },
+    "excalidraw/board-b.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 25061,
+      "exportedPath": "excalidraw/board-b.1.png",
+      "dependencies": []
+    },
+    "excalidraw/board-b.2.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7442,
+      "exportedPath": "excalidraw/board-b.2.png",
+      "dependencies": []
+    },
+    "excalidraw/board-2.1.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12362,
+      "exportedPath": "excalidraw/board-2.1.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 128844,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 9102,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 38650,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 459,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 245,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1720095794328,
+      "sourceSize": 87,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 301.7640210075739 192.99271205269557" width="301.7640210075739" height="192.99271205269557" filter="invert(93%) hue-rotate(180deg)" class="excalidraw-svg">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+    </style>
+    
+  </defs>
+  <rect x="0" y="0" width="301.7640210075739" height="192.99271205269557" fill="#ffffff"/><g stroke-linecap="round" transform="translate(10 36.14316624631411) rotate(0 140.88201050378694 50.92917750606384)"><path d="M0 0 C94.05 0, 188.11 0, 281.76 0 M0 0 C88.06 0, 176.13 0, 281.76 0 M281.76 0 C281.76 38.36, 281.76 76.72, 281.76 101.86 M281.76 0 C281.76 21.46, 281.76 42.93, 281.76 101.86 M281.76 101.86 C182.36 101.86, 82.95 101.86, 0 101.86 M281.76 101.86 C169.43 101.86, 57.1 101.86, 0 101.86 M0 101.86 C0 80.99, 0 60.13, 0 0 M0 101.86 C0 74.75, 0 47.64, 0 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g stroke-linecap="round"><g transform="translate(132.42132351380877 153.33557577780314) rotate(0 41.37741662988233 -71.66778788890157)"><path d="M0 0 C18.99 -32.89, 37.98 -65.79, 82.75 -143.34 M0 0 C21.16 -36.65, 42.32 -73.3, 82.75 -143.34" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(81.05365690004481 182.99271205269557) rotate(0 25.683833557547842 -14.828568218271755)"><path d="M0 0 C17.62 -10.17, 35.24 -20.35, 51.37 -29.66 M0 0 C16.97 -9.8, 33.94 -19.59, 51.37 -29.66" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/></svg>
