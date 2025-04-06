@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fizika-mesgele]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>fizika-mesgele</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 02 Apr 2025 14:11:39 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 02 Apr 2025 14:10:46 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Dərs 1. Mexanika. Kinematikanın əsasları. Düzxətli bərabərsürətli və Dəyişənsürətli hərəkət.]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fizika-mesgele]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>fizika-mesgele</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 06 Apr 2025 18:45:23 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 06 Apr 2025 18:44:46 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Dərs 1. Mexanika. Kinematikanın əsasları. Düzxətli bərabərsürətli və Dəyişənsürətli hərəkət.]]></title><description><![CDATA[ 
  <br><br>
 <br>Fİzika - Təbiətin ən ümumi qanunlarının bizi əhatə edən maddi aləmin quruluşunun və xassələrini öyrənən elmdir. Yunan sözü "fyuzis" olub, təbiət deməkdir.
 <br><br>
@@ -1423,7 +1423,7 @@ Proyeksiya aparatı - Cisimlərin ekranda böyüdülmüş, <a data-tooltip-posit
 <br>Sferik seqment formasında olan və işığı güzgü kimi əks etdirən cismin səthi Sferik güzgü adlanır. 
 <br>Sferik güzgü iki növ olur: <br>
 <br>Çökük sferik güzgü - İşıq şüalarını sferik seqmentin daxili səthindən qaytaran güzgüdür. (a)
-<br>Qabarıq sferik güzgü - İşıq şüalarını sferik seqmentin daxili səthindən səpələyən güzgüdür. (b)
+<br>Qabarıq sferik güzgü - İşıq şüalarını sferik seqmentin xarici səthindən səpələyən güzgüdür. (b)
 <br><br>
 <br>
 Optik mərkəzlə təpə nöqtəsi arasındakı məsafə Güzgünün əyrilik radiusdur və  hərfi ilə işarə edilir. ()
@@ -1468,7 +1468,7 @@ Cisim güzgünün fokusu ilə qütb nöqtəsi arasında olduqda (): Xəyal güzg
 <br>Cismə baxmaq üçün ən əlverişli məsafə Ən yaxşı görmə məsafəsi adlanır. 
 <br>Normal göz üçün ən yaxşı görmə məsafəsi  - dir. <br>Cismə iki gözlə baxdığımız zaman onun üç ölçüsünü, yəni uzunluğunu, enini və hündürlüyünü hiss edirik və daha yaxın cisimləri uzaqdakı cisimlərdən tamamilə aydın fərqləndirə bilirik. Bir gözlə baxdığımız zaman isə üç ölçülü fəzanı xeyli zəif dərk edirik.<br><br>İnsanlarda, əsasən peşəsindən asılı olaraq Peşə xəstəliyi sayılan Yaxındangörmə (uzağı pis görən) və Uzaqdangörmə (yaxını pis görən) kimi göz güsurları əmələ gəlir. <br>Yaxındangörmə () qüsuruna (, ) olan insanlar optik qüvvəsi  olan səpici linzalı eynəklər, Uzaqdangörmə () qüsuruna (, ) malik olan insanlar isə  olan toplayıcı linzalı eynəklərdən istifadə etməklə görmə qüsurlarını aradan qaldırırlar.<br>
 <br>Tibb məntəqələrində insanlarda görmə itiliyi Snellen cədvəli vasitəsilə yoxlanılır.
-<br><img alt="Board 25.23.png" src="excalidraw\board-25.23.png">]]></description><link>dərs-25.-həndəsi-optika.-güzgülər-və-linzalar..html</link><guid isPermaLink="false">Dərs 25. Həndəsi optika. Güzgülər və linzalar..md</guid><pubDate>Wed, 02 Apr 2025 13:51:20 GMT</pubDate><enclosure url="excalidraw\board-25.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-25.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası.]]></title><description><![CDATA[ 
+<br><img alt="Board 25.23.png" src="excalidraw\board-25.23.png">]]></description><link>dərs-25.-həndəsi-optika.-güzgülər-və-linzalar..html</link><guid isPermaLink="false">Dərs 25. Həndəsi optika. Güzgülər və linzalar..md</guid><pubDate>Sun, 06 Apr 2025 18:29:28 GMT</pubDate><enclosure url="excalidraw\board-25.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-25.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası.]]></title><description><![CDATA[ 
  <br><br>
 <br>Sındırma əmsalının işığın rəqs tezliyindən və ya dalğa uzunluğundan olan asılılığına Dispersiya deyilir.
 <br>İşığın dispersiyası normal və anormal (və ya anomal) olmaqla iki yerə bölünür: <br>
@@ -1497,7 +1497,7 @@ Koherent dalğalar görüşərkən bir - birini gücləndirməsi və ya zəiflə
 Koherent dalğalar o zaman bir - birini gücləndirir ki, dalğaların yollar fərqi dalğa uzunluğunun tam mislinə bərabər olsun və ya yarımdalğa uzunluğunun cüt mislinə bərabər olsun: 
 Koherent dalğalar o zaman bir - birini zəiflədir ki, dalğaların yollar fərqi yarımdalğa uzunluğunun tək mislinə bərabər olsun: 
 
-<br>İnterferensiyadan Səthlərin cilalanma keyfiyyətinin yoxlanılmasında və Optik şüşələrin şəffaflaşdırılmasında istifadə olunur. <br>Optik şüşələri şəffaflaşdırmaq üçün onun səthinə sındırma əmsalı şüşənin sındırma əmsalıdan az olan maddədən təbəqə çəkilir. Təbəqənin qalınlığı belə hesablanır: () - Sındırma əmsalı<br><br>
+<br>İnterferensiyadan Səthlərin cilalanma keyfiyyətinin yoxlanılmasında və Optik şüşələrin şəffaflaşdırılmasında istifadə olunur. <br>Optik şüşələri şəffaflaşdırmaq üçün onun səthinə sındırma əmsalı şüşənin sındırma əmsalıdan az olan maddədən təbəqə çəkilir. Təbəqənin qalınlığı belə hesablanır: <br>() - Sındırma əmsalı<br><br>
 <br>
 İşıq dalğalarının dar yarıqdan keçərkən düz xətt üzrə yayılması qanunundan kənara çıxması və ya maneədən əyilərək onun arxasına keçməsi hadisəsinə İşığın difraksiyası deyilir.
 
@@ -1518,7 +1518,7 @@ Nisbət cütdür, mənzərə dəyişmir, interferensiya işığın intensivliyi 
 Nisbət təkdir, maximum və minimum biri digərilə yerini dəyişir. Yəni maximum alınan yerdə minimum, minimum alınan yerdə maximum olur.
 <br><br>
 Nisbət nə təkdir, nə də cütdür, maximumun interferensiya intensivliyi azalır, minimumun interferensiya intensivliyi isə artır.
-]]></description><link>dərs-26.-dalğa-optikası.-i̇şığın-difraksiya-və-interferensiyası..html</link><guid isPermaLink="false">Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası..md</guid><pubDate>Wed, 02 Apr 2025 13:47:51 GMT</pubDate><enclosure url="excalidraw\board-26.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-26.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs 27. İşıq kvantları. Fotoeffektlər.]]></title><description><![CDATA[ 
+]]></description><link>dərs-26.-dalğa-optikası.-i̇şığın-difraksiya-və-interferensiyası..html</link><guid isPermaLink="false">Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası..md</guid><pubDate>Sun, 06 Apr 2025 18:21:53 GMT</pubDate><enclosure url="excalidraw\board-26.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-26.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs 27. İşıq kvantları. Fotoeffektlər.]]></title><description><![CDATA[ 
  <br><br>Şüalanma və udulma proseslərində işıq özünü zərrəciklər seli kimi aparır.<br>
 <br>
 İşıq zərrəciklərinə Fotonlar və ya İşıq kvantları deyilir.
@@ -1526,7 +1526,7 @@ Nisbət nə təkdir, nə də cütdür, maximumun interferensiya intensivliyi aza
 <br>
 Foton elektrik yükünə və sükunət kütləsinə malik olmayan elektromaqnit sahəsinin zərrəciyidir. 
 
-<br>O, digər fotonlar, elektrik və maqnit sahələrilə qarşılıqlı təsirdə olmur. <br>Foton atomda sərbəst halda mövcud deyil. O, atomda elektronların energetik dəyişməsi zamanı yaranır.<br>Foton yaşama müddətinə görə sərbəst halda davamlı zərrəcikdir. <br>Foton nüvə sahəsində Dektron və Pozitron cütünə çevrilə bilər: <br>Foton zəif qarşılıqlı təsirdə iştirak etmir.<br><br>Fotonun enerjisi aşağıdakı kimi hesablanır:<br>
+<br>Fotonlar digər fotonlarla, elektrik və maqnit sahələrilə, həmçinin zəif qarşılıqlı təsirlərdə olmur. <br>Foton atomda sərbəst halda mövcud deyil. O, atomda elektronların energetik dəyişməsi zamanı yaranır.<br>Foton yaşama müddətinə görə sərbəst halda davamlı zərrəcikdir. <br>Foton nüvə sahəsində Dektron və Pozitron cütünə çevrilə bilər: <br><br>Fotonun enerjisi aşağıdakı kimi hesablanır:<br>
 () - Say<br>
 () - Plank sabiti ()<br>Plank fərz edir ki, atomlar elektromaqnit enerjisini kəsilmədən yox, ayrı - ayrı porsiyalar - kvantlar şəklində şüalandırır.<br>Fotonun enerjisi dairəvi tezlikdə də ifadə olunur:<br>
 () - <br>Fotonun enerjisi  olduğundan fotonun kütləsi və impulsu aşağıdakı kimi tapılır:<br>
@@ -1539,20 +1539,21 @@ Vahid zamanda metaldan qopan elektronların sayı onun üzərinə düşən işı
 <img alt="Board 27.1.png" src="excalidraw\board-27.1.png" style="width: 200px; max-width: 100%;">
 
 <br>
-Fotoelektronların maksimal kinetik enerjisi işığın tezliyindən zətti asılı olaraq artır və işığın intensivliyindən asılı deyil: 
-<img alt="Board 27.2.png" src="excalidraw\board-27.2.png" style="width: 300px; max-width: 100%;">
+Fotoelektronların maksimal kinetik enerjisi işığın tezliyindən xətti asılı olaraq artır və işığın intensivliyindən asılı olmur: 
+<img alt="Board 27.2.png" src="exc-og\board-27.2.png" style="width: 300px; max-width: 100%;">
 
 <br>
-Hər bir maddəyə uyğun fotoeffektin qırmızı sərhədi vardır.
+Hər bir maddəyə uyğun fotoeffektin Qırmızı sərhədi vardır.
 
 <br>
 <br>Fotoeffekt hadisəsinin baş verə biləcəyi  minimum tezliyi və ya ona uyğun  maksimal dalğa uzunluğu fotoeffektin Qırmızı sərhədi adlanır.
-<br>Baxılan maddə üçün işığın tezliyi () müəyyən qiymətdən kiçik olarsa fotoeffekt baş vermir.<br>
-<br><br>1905 - ci ildə Eynşteyn fotoeffekt hadisəsinin izahını vermişdir:<br>
+<br>Baxılan maddə üçün işığın tezliyi () müəyyən qiymətdən kiçik olarsa fotoeffekt baş vermir:<br><br><br>1905 - ci ildə Eynşteyn fotoeffekt hadisəsinin izahını vermişdir:<br>
 Eynşteynin təsəvvürünə görə fotonun udulması nəticəsində onun  enerjisi bütünlüklə elektrona verilir. Bu enerjinin bir hissəsi elektronun metaldan qoparılması üçün  çıxış işinin görülməsinə sərf olunur. Qalan hissəsi isə metalı tərk edən elektrona kinetik enerji şəklində verilir. 
-<br><br>Enerjinin saxlanma qanununa əsasən: <br>Bu düstur fotoeffekt üçün Eynşteyn tənliyidir.<br>Həmin tənlikdən görünür ki, fotoeffektin baş verməsi üçün  şərti ödənilməlidir: <br>İşıq dəstəsinin enerjisi aşağıdakı kimi hesablanılır: () - Güc<br><br>Fotoelektronların maksimal sürətinin işığın tezliyindən və dalğa uzunluğundan asılılığı: <br><img alt="Board 27.3.png" src="excalidraw\board-27.3.png"><br>   - Maddənin növündən asılıdır. Düşən işığın tezliyindən və dalğa uzunluğundan asılı deyil.<br><br>Rentgen borusunun <a data-tooltip-position="top" aria-label="Dərs 9. Mexaniki iş. Güc. Faydalı iş əmsalı. > Faydalı iş əmsalı" data-href="Dərs 9. Mexaniki iş. Güc. Faydalı iş əmsalı.#Faydalı iş əmsalı" href="dərs-9.-mexaniki-iş.-güc.-faydalı-iş-əmsalı..html#Faydalı_iş_əmsalı" class="internal-link" target="_self" rel="noopener nofollow">Faydalı iş əmsalı</a> (FİƏ) belədir: <br>
+<br><br>Enerjinin saxlanma qanununa əsasən: <br><br>Bu düstur fotoeffekt üçün Eynşteyn tənliyidir.<br>Həmin tənlikdən görünür ki, fotoeffektin baş verməsi üçün  şərti ödənilməlidir: <br><br>İşıq dəstəsinin enerjisi aşağıdakı kimi hesablanılır: <br>() - Güc<br><br>Fotoelektronların maksimal sürətinin işığın tezliyindən və dalğa uzunluğundan asılılığı: <br><img alt="Board 27.3.png" src="exc-og\board-27.3.png"><br>   - Maddənin növündən asılıdır. Düşən işığın tezliyindən və dalğa uzunluğundan asılı deyil.<br><br>Rentgen borusunun <a data-tooltip-position="top" aria-label="Dərs 9. Mexaniki iş. Güc. Faydalı iş əmsalı. > Faydalı iş əmsalı" data-href="Dərs 9. Mexaniki iş. Güc. Faydalı iş əmsalı.#Faydalı iş əmsalı" href="dərs-9.-mexaniki-iş.-güc.-faydalı-iş-əmsalı..html#Faydalı_iş_əmsalı" class="internal-link" target="_self" rel="noopener nofollow">Faydalı iş əmsalı</a> (FİƏ) belədir: <br><br>
 Daxilindən hava sorulmuş şüşə boruda katod və anod yerləşdirilir. Katodun üzərinə işıq salınır. İşıq katoddan elektronları qopardır, elektronlar anoda doğru hərəkət edərək elektrik cərəyanı yaradır. Anodla katod arasındakı gərginlik sıfır olduqda belə gəlib çatır. 
-<br><br>Batareyanın qütblərini dəyişdikdə cərəyan azalır və gərginliyinin müəyyən  qiymətində sıfıra bərabər olur. <br> gərginliyi ləngidici gərginlik adlanır və onun qiyməti işığın qopardığı elektronların maksimal kinetik enerjisindən asılıdır: <img alt="Fotocərəyan şiddət gərginlik asılılığı" src="excalidraw\board-27.4.png"><br>Ləngidici gərginliyi nəzərə alaraq, <a data-tooltip-position="top" aria-label="Dərs 27. İşıq kvantları. Fotoeffektlər. > Eynşteyn tənliyi" data-href="Dərs 27. İşıq kvantları. Fotoeffektlər.#Eynşteyn tənliyi" href="dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html#Eynşteyn_tənliyi" class="internal-link" target="_self" rel="noopener nofollow">Eynşteyn tənliyi</a> aşağıdakı kimi yazmaq olar: <img alt="Board 27.5.png" src="excalidraw\board-27.5.png">]]></description><link>dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html</link><guid isPermaLink="false">Dərs 27. İşıq kvantları. Fotoeffektlər..md</guid><pubDate>Wed, 19 Mar 2025 16:55:17 GMT</pubDate><enclosure url="excalidraw\board-27.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-27.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs A. İstifadə olunmuş bəzi nəzəriyə və anlayışlar.]]></title><description><![CDATA[ 
+<br><br>Batareyanın qütblərini dəyişdikdə cərəyan azalır və gərginliyinin müəyyən  qiymətində sıfıra bərabər olur. <br> gərginliyi ləngidici gərginlik adlanır və onun qiyməti işığın qopardığı elektronların maksimal kinetik enerjisindən asılıdır:<br>
+<br><img alt="Fotocərəyan şiddət gərginlik asılılığı" src="excalidraw\board-27.4.png"><br>Ləngidici gərginliyi nəzərə alaraq, <a data-tooltip-position="top" aria-label="Dərs 27. İşıq kvantları. Fotoeffektlər. > Eynşteyn tənliyi" data-href="Dərs 27. İşıq kvantları. Fotoeffektlər.#Eynşteyn tənliyi" href="dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html#Eynşteyn_tənliyi" class="internal-link" target="_self" rel="noopener nofollow">Eynşteyn tənliyi</a> aşağıdakı kimi yazmaq olar:<br>
+<img alt="Board 27.5.png" src="excalidraw\board-27.5.png">]]></description><link>dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html</link><guid isPermaLink="false">Dərs 27. İşıq kvantları. Fotoeffektlər..md</guid><pubDate>Sun, 06 Apr 2025 18:36:22 GMT</pubDate><enclosure url="excalidraw\board-27.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-27.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs A. İstifadə olunmuş bəzi nəzəriyə və anlayışlar.]]></title><description><![CDATA[ 
  <br><br><img alt="Board A.1.png" src="excalidraw\board-a.1.png" style="width: 300px; max-width: 100%;"><br><br><br><br>Törəmə:  <br><br><br><br><img alt="Board A.2.png" src="excalidraw\board-a.2.png" style="width: 400px; max-width: 100%;"> <br>1)  ()<br>
 2) <br>
 3) <br>
