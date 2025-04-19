@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fizika-mesgele]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>fizika-mesgele</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 06 Apr 2025 18:45:23 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 06 Apr 2025 18:44:46 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Dərs 1. Mexanika. Kinematikanın əsasları. Düzxətli bərabərsürətli və Dəyişənsürətli hərəkət.]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[fizika-mesgele]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>fizika-mesgele</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 19 Apr 2025 07:41:37 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 19 Apr 2025 07:41:13 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Dərs 1. Mexanika. Kinematikanın əsasları. Düzxətli bərabərsürətli və Dəyişənsürətli hərəkət.]]></title><description><![CDATA[ 
  <br><br>
 <br>Fİzika - Təbiətin ən ümumi qanunlarının bizi əhatə edən maddi aləmin quruluşunun və xassələrini öyrənən elmdir. Yunan sözü "fyuzis" olub, təbiət deməkdir.
 <br><br>
@@ -1553,7 +1553,102 @@ Eynşteynin təsəvvürünə görə fotonun udulması nəticəsində onun  enerj
 Daxilindən hava sorulmuş şüşə boruda katod və anod yerləşdirilir. Katodun üzərinə işıq salınır. İşıq katoddan elektronları qopardır, elektronlar anoda doğru hərəkət edərək elektrik cərəyanı yaradır. Anodla katod arasındakı gərginlik sıfır olduqda belə gəlib çatır. 
 <br><br>Batareyanın qütblərini dəyişdikdə cərəyan azalır və gərginliyinin müəyyən  qiymətində sıfıra bərabər olur. <br> gərginliyi ləngidici gərginlik adlanır və onun qiyməti işığın qopardığı elektronların maksimal kinetik enerjisindən asılıdır:<br>
 <br><img alt="Fotocərəyan şiddət gərginlik asılılığı" src="excalidraw\board-27.4.png"><br>Ləngidici gərginliyi nəzərə alaraq, <a data-tooltip-position="top" aria-label="Dərs 27. İşıq kvantları. Fotoeffektlər. > Eynşteyn tənliyi" data-href="Dərs 27. İşıq kvantları. Fotoeffektlər.#Eynşteyn tənliyi" href="dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html#Eynşteyn_tənliyi" class="internal-link" target="_self" rel="noopener nofollow">Eynşteyn tənliyi</a> aşağıdakı kimi yazmaq olar:<br>
-<img alt="Board 27.5.png" src="excalidraw\board-27.5.png">]]></description><link>dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html</link><guid isPermaLink="false">Dərs 27. İşıq kvantları. Fotoeffektlər..md</guid><pubDate>Sun, 06 Apr 2025 18:36:22 GMT</pubDate><enclosure url="excalidraw\board-27.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-27.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs A. İstifadə olunmuş bəzi nəzəriyə və anlayışlar.]]></title><description><![CDATA[ 
+<img alt="Board 27.5.png" src="excalidraw\board-27.5.png">]]></description><link>dərs-27.-i̇şıq-kvantları.-fotoeffektlər..html</link><guid isPermaLink="false">Dərs 27. İşıq kvantları. Fotoeffektlər..md</guid><pubDate>Sun, 06 Apr 2025 18:36:22 GMT</pubDate><enclosure url="excalidraw\board-27.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-27.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs 28. Atom və nüvə fizikası.]]></title><description><![CDATA[ 
+ <br><br>1911 - ci ildə ingilis alimi Rezerford  zərrəciklərinin maddədən səpilməsini tədqiq etdi və öz təcrübələri əsasında atomun planetar modelini verdi. <br> zərrəciklər radioaktiv elementlərin çevrilməsi zamanı yaranan tam ionlaşmış  atomlarıdır. Onların müsbət yükü  qədər, kütləsi   olub işıq sürətinin 1/15 - i qədər sürətlə hərəkət edir. <br>Rezerfordun Planetar modelinə görə atom müsbət yüklü nüvədən və onun ətrafında hərəkət edən mənfi yüklü elektronlardan ibarətdir. Nüvə üzərinə deşən  zərrəciklər geri qayıdır, yaxınlıqdan keçən zərrəciklər meyl edir, nüvədən çox aralı keçənlər isə düz gedir. <br><br>1913 - cü iıdə danimarkalı alim Nils Bor atomun planetar modelinin çətinliyini aradan qaldırmaq üçün 2 postulatdan ibarət yeni fərziyyə formalaşdırdı: <br>
+<br>Atom müəyyən stasionar və kvant hallarda olur. Xarici təsir olmadıqda atomların stasionar halı dəyişmir. Stasionar halda olan atom elektromaqnit dalğaları şüalandırmır və udulmur. Stasionar halda elektron yalnız elə orbit üzrə hərəkət edə bilər ki, onun hərəkət miqdar momenti  - ın natural misillərinə bərabərdir:  
+<br>Atom bir stasionar haldan digərinə keçdikdə bir kvant enerji şüalandırır və ya bir kvant enerji udur. Şüalanan və udulan kvantın enerjisi stasionar halların enerkilər fərqinə bərabərdir: 
+<br>
+<br>Buraxılan və ya udulan işığın tezliyi və dalğa uzunluğu aşağıdakı kimi tapılır: Atom böyük enerjili stasionar haldan kiçik enerjili stasionar hala keçdikdə () Şüalanma baş verir. Bu zaman elektron uzaq orbitdən yaxın orbitə keçir. 
+<br>Atom kiçik enerjili stasionar haldan böyük enerjili stasionar hala keçdikdə () Şüa udulması baş verir. Bu zaman elektron nüvəyə yaxın orbitdən uzaq orbitə keçir. <br>Bor nəzəriyyəsinə görə hidrogen atomunun stasionar halların enerji qiyməti aşağıdakı kimi hesablanır:<br>
+() - Baş kvant ədədi<br>
+() - Hidrogen atomunun ionlaşma enerjisi<br>
+() - Atom birinci stasionar haldan ikinciyə keçdikdə enerjisinin 4 dəfə artması<br><br>Enerji diaqramında atomun stasionar halı Enerji səviyyəsi adlanan üfüqi xətlə təsvir olunur. <br>Bir stasionar haldan digərinə keçiddə uyğun səviyyələr arasında ox işarəsinin aşağı olması fotonun şüalanma, yuxarı olması isə udulmasına uyğundur. Şaquli xətlər uzun olduqda fotonun tezliyi, kütləsi, impulsu böyük, dalğa uzunluğu isə kiçik olur:<br>
+() -  Ridberq sabiti<br>Hidrogen atomu: <br>
+<br> hallarından  halına keçərkən Görünən işıq (Balmer seriyası) 
+<br> hallarından  halına keçdikdə Ultrabənövşəyi (Layman seriyası) 
+<br> hallarından  halına keçdikdə İnfraqırmızı (Paşen seriyası*)<br>
+şüalandırır.
+<br><img alt="Board 28.1.png" src="excalidraw\board-28.1.png"><br><br>Şüalanma spektrinin 3 növü var: Xətti, <a data-tooltip-position="top" aria-label="Dərs 28. Atom və nüvə fizikası. > ^dc0a4d" data-href="Dərs 28. Atom və nüvə fizikası.#^dc0a4d" href="dərs-28.-atom-və-nüvə-fizikası..html#^dc0a4d" class="internal-link" target="_self" rel="noopener nofollow">Bütöv</a>, <a data-tooltip-position="top" aria-label="Dərs 28. Atom və nüvə fizikası. > ^170b6f" data-href="Dərs 28. Atom və nüvə fizikası.#^170b6f" href="dərs-28.-atom-və-nüvə-fizikası..html#^170b6f" class="internal-link" target="_self" rel="noopener nofollow">Zolaqlı</a> spektrlər.<br>Kəsilməz və ya bütöv spektr yüksək temperatura qədər qızdırılmış bərk cisimdə, mayelər və böyük sıxlıqlı qazlarda baş verir. Belə spektrdə bütün dalğa uzunluğuna malik şüalar olur. Qaz halında olan ayrı - ayrı atomlar şəklində olan maddələr xətti spektr verir. Xətti şüalanma spektrinin xarakteri ancaq şüalanan atomların öz xassəsindən asılı olub əsas spektr növüdür. Hər bir kimyəvi elementin özünəməxsus xətti spektri vardır. Hər bir kimyəvi elementin xətti spektri digərlərindən rənginə və sayına görə fərqlənir. Xətti udulmanın spektri kəsilməz spektrin fonunda tünd xətlərdən ibarətdir.  <br>Zolaqlı spektr qaranlıq aralıqlarla ayrılmış rəngli zolaqlardan ibarətdir. Hər bir zolaq sıx yerləşmiş xətlərdən ibarətdir. Zolaqlı spektrləri bir - biri ilə zəif rabitədə olan molekullar yaradır. <br><br>
+<br>Şüalanma və udulma spektrlərinə görə maddənin kimyəvi tərkibinin öyrənilməsi Spektral analiz metodu adlanır. 
+<br>Spektrləri müşahidə etmək üçün Spektroskop adlanan cihazdan istifadə olunur. İş prinsipi <a data-tooltip-position="top" aria-label="Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası. > Dispersiya" data-href="Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası.#Dispersiya" href="dərs-26.-dalğa-optikası.-i̇şığın-difraksiya-və-interferensiyası..html#Dispersiya" class="internal-link" target="_self" rel="noopener nofollow">Dispersiya</a> hadisəsinə əsaslanır. <br>Spektoqraf cisimlərin şəklini çəkmək üçün işlədilir.<br><br>
+<br>
+Atomun bir stasionar haldan digərinə özbaşına keçidi zamanı şüalanması Spontan şüalanma adlanır. 
+
+<br>
+Atomun yuxarı enerjili səviyyədən aşağı səviyyəyə keçidi xarici elektromaqnit sahəsinin təsirili ilə baş verirsə, bu cür şüalanma Məcburi şüalanma adlanır. 
+
+<br>Məcburi şüalanmanın ən əsas xüsusiyyəti ondan ibarətdir ki, o, Monoxromatik və <a data-tooltip-position="top" aria-label="Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası. > Koherent dalğalar" data-href="Dərs 26. Dalğa optikası. İşığın difraksiya və interferensiyası.#Koherent dalğalar" href="dərs-26.-dalğa-optikası.-i̇şığın-difraksiya-və-interferensiyası..html#Koherent_dalğalar" class="internal-link" target="_self" rel="noopener nofollow">Koherentdir</a>.<br><br>
+<br>Lazer - istilik, kimyəvi, elekrik enerjisini elektromaqnit sahəsinin enerjisinə (Lazer şüalanmasına) çevirən qurğudur. Onun iş prinsipi <a data-tooltip-position="top" aria-label="Dərs 28. Atom və nüvə fizikası. > ^48879c" data-href="Dərs 28. Atom və nüvə fizikası.#^48879c" href="dərs-28.-atom-və-nüvə-fizikası..html#^48879c" class="internal-link" target="_self" rel="noopener nofollow">Məcburi şüalanmaya</a> əsaslanır.
+<br>Lazer ən güclü işıq mənbəyidir. Lazerin işləməsi üçün ən azı 3 enerji səviyyəsi olmalıdır. <br>Lazerdən vakkumda maddələri buxarlandırmaq, qaynaq etmək, tibbdə cərrahiyyə əməliyyat aparmaq üçün istifadə edilir. Lazerlər işıq lokatorunu yaratmağa imkan verir.<br><br>Atom nüvəsi 2 tip elementar zərrəcikdən - müsbət yüklü proton və neytral neytronlardan təşkil olunmuşdur: <br>
+<br>Atom kütlə ədədi - proton və neytron cəmidir. Atom kütlə ədədi elementin yuxarı indeksinə, proton sayı aşağı indeksə yazılır:<br>
+() - Proton sayı<br>
+() - Neytron sayı
+<br>Nüvə zərrəcikləri proton və neytonlar birlikdə Nuklonlar adlanır. Nüvə zərrəcikləri arasında kulon dəfetmə qüvvələrinin əksinə yönələn və nüvənin dayanıqlığını təmin edən güclü nüvə qüvvələri mövcuddur. <br>Nüvə qüvvələri  kimi kiçik məsafələrdə güclü təsirə malikdir. <br>Nüvə yükü  kimi təyin olunur.<br><br>
+<br>Protonların sayı eyni olub, lakin neytronlarının sayı fərqlənən nüvələrə İzotoplar deyilir.
+<br>Hidrogenin 3 izotopu var: <br><br>
+<br>Nüvəni təşkil edən zərrəciklərinin kütlələrinin cəmi ilə nüvənin sükunət kütləsi arasındakı fərq Kütlə defekti adlanır.<br>
+
+<br><br>
+<br>
+Nüvəni ayrı - ayrı proton və neytronlara ayırmaq üçün lazım olan enerjiyə nüvənin rabitə enerjisi deyilir:<br>
+() - nin vahidi: 
+
+<br>
+Nüvədə bir zərrəciyə düşən rabitə enerjisinə xüsusi rabitə enerjisi deyilir:<br>
+
+
+<br><br>
+<br>Nüvələrin müxtəlif zərrəciklər şüalandırmaqla başqa nüvələrə çevrilməsinə Radioaktivlik deyilir.
+<br>Radioaktiv şüalanmanın 3 növü var: <br>
+<br>Maqnit sahəsində az meyl edən  şüaları:  atomunun nüvəsi  
+<br>Maqnit sahəsində çox meyl edən  şüaları elektron selindən ibarətdir: 
+<br>Maqnit sahəsində meyl etməyən  şüaları yüksək tezlikli elektromaqnit dalğalarıdır: <img alt="Board 28.2.png" src="excalidraw\board-28.2.png">
+<br>Şüalanmanın bu növləri maddələrə nüfuzetmə qabiliyyətinə görə fərqlənir. Ən az nüfuzetmə qabiliyyəti  şüalardadır.  şüalar nisbətən çox nüfuz edir. Ən çox nüfuzetmə qabiliyyəti  şüalara aiddir.  və  şüalar vakkumda işıq sürəti ilə yayıla bilmir.<br><br> çevrilmə zaqmanı nüvənin yükü və ya sıra nömrəsi 2 vahid, atom kütlə ədədi isə 4 vahid azalır. Nəticədə element dövri sistemdə özündən 2 xana əvvəlki elementə çevrilir:  çevrilmə zamanı nüvənin kütlə ədədi dəyişmir, yükü və ya sıra nömrəsi 1 vahid artır. Nəticədə element dövri sistmdə özündən sonrakı elementə çevrilir: () - Antineytron - Çevrilmə zamanı yaranan yüksüz və kütləsiz zərrəcik<br>Nüvədə elektron yoxdur. Nüvədəki nuklonlar çevrilməyə məruz qalır. Neytron protona çevrilir və elektronlar yaranır ki, bu da  şüalar şəklində nüvədən xaric olunur: Elektron yarnamaqla yanaşı pozitron da yarana bilər. Bu zaman nüvədəki protonlardan biri neytrona çevrilir: Bu çevrilmədə nüvə dövri sistemin əvvəlinə doğru bir xana yerini dəyişir.  çevrilmə zamanı həyəcanlanmış nüvə normal hala qayıdır, nüvənin yükü və kütlə ədədi dəyişməz qalır:  <br><br>
+<br>Atom nüvələrinin ayrı - ayrı elementar zərrəciklərlə və ya bir - birilə qarşılıqlı təsir zamanı başqa nüvələrə çevrilməsinə Nüvə reaksiyaları deyilir:<br>
+
+<br>Nüvə reaksiyaları zamanı Elektrik yüklərinin və nuklonların sayının saxlanma qanunları ödənir: <br><br>
+<br>Reaksiyada iştirak edən nüvələrin və zərrəciklərin reaksiyadan əvvəlki və sonraki sükunət enerjilərinin fərqinə nüvə reaksiyalarının Çıxış işi deyilir:<br>
+() - Ödəndikdə reaksiya zamanı enerji ayrılır<br>
+() - Ödəndikdə reaksiya zamanı enerji udulur
+<br><br>Neytron neytral zərrəcik olduğundan nüvəyə maneəsiz daxil ola bilir və atom nüvəsinin bölünməsi nüvə reaksiyasını yaradır. Bu reaksiya zamanı ağır elementin nüvəsi 2 qəlpəyə bölünür və eyni zamanda 2-3 neytron  şüalar buraxır və xeyli enerji ayrılır: () - Buraxılan neytronların sayı<br>
+<br>Radioaktiv nüvələrin yarısının çevrilməsi üçün sərf olunan zamana Yarımçevrilmə periodu deyilir ().  
+<br> müddətdən sonra qalan nüvələrin sayı aşağıdakı kimi tapılır:<br><img alt="Board 28.3.png" src="excalidraw\board-28.3.png"><br>
+() - Başlanğıc nüvə sayı<br>
+<br>Bu ifadə Radioaktiv çevrilmə qanunu adlanır.
+<br>Çevrilməyə məruz qalan nüvələrin sayı aşağıdakı kimi tapılır: <br><br>
+<br>Hər hansı nəsildə bölünmə yaradan neytronların sayının ondan əvvəlki nəsildə bölünmə yaratmış neytronların sayına olan nisbətinə Neytronların artma əmsalı deyilir. 
+<br>
+ olduqda bölünmə verən nüvələrin sayı sürətlə artır və zəncirvari nüvə reaksiyaları partlayışla gedir.
+<br>
+ olduqda reaksiya stabil partlayışsız gedir.
+<br>
+ olduqda isə reaksiya sönür.
+<br><br>
+<br>İdarəolunan zəncirvari nüvə bölünmə reaksiyaları gedən qurğuya Nüvə reaktoru deyilir.
+<br>Nüvə reaktorunun əsas elementləri:<br>
+<br>Nüvə yanacağı ( və ya )
+<br>Neytronların yavaşıdıcısı (adi və ya ağır su, qrafit)
+<br>Neytronu yaxşı udan maddələr (Kadium və ya Bor)
+<br>İstilik daşıyıcısı (su və ya maye Natrium)
+<br><br>
+<br>Zəncirvari nüvə reaksiyasının getməsi üçün tələb olunan ən kiçik uran kütləsi Böhran kütləsi adlanır.
+<br><br>
+<br>Çox yüksək temperaturlarda yüngül nüvələrin birləşməsinə İstilik - nüvə reaksiyaları deyilir.
+<br>İstilik - nüvə reaksiyası zamanı plazmanın yüksək yüksək temperaturu "Nüvələrin Kulon itələnməsinə üstün gəlməsi" üçündür.<br><br>Radioaktiv nüvələr <a data-tooltip-position="top" aria-label="Dərs 28. Atom və nüvə fizikası. > ^aecc49" data-href="Dərs 28. Atom və nüvə fizikası.#^aecc49" href="dərs-28.-atom-və-nüvə-fizikası..html#^aecc49" class="internal-link" target="_self" rel="noopener nofollow">Yarımçevrə periodundan</a> başqa, Orta yaşama müddəti () ilə xarakterizə olunur. Bu kəmiyyətin yarımçevrə periodu ilə əlaqəsi  kimidir.<br><br>
+<br>İxtiyari  zamanında radioaktiv nüvələr sayının bu nüvələrin orta yaşama müddətinə nisbəti Radioaktiv çevrilmə aktivliyi adlanır:<br>
+
+<br><img alt="Board 28.4.png" src="excalidraw\board-28.4.png"><br>İxtiyari radioaktiv maddənin aktivliyi dedikdə, vahid zamanda həmin maddədə neçə radioaktiv çevrilmə baş verdiyi başa düşülür. <br>Aktivliyin vahidi BS - də Bekkereldir (). <br> elə radioaktiv maddənin aktivliyinə deyilir ki, həmin maddədə  müddətində 1 çevrilmə baş versin:<br>
+<br><br>Radioaktiv şüanın dozası aşağıdakı kimi tapılır: () - Kütlə<br>
+() - Udulan şüanın enerjisi<br>Radioaktiv şüanın dozasının vahidi: Ağır elementlərdə rabitə enerjisi azalır. Buna səbəb ağır elementlərdə nüvədə fotonların sayının çox olmasıdır. <br><img alt="Board 28.5.png" src="excalidraw\board-28.5.png"> <br>Xüsusi rabitə enerjisinin atom kütlə ədədindən asılılığıdır.<br><img alt="Board 28.6.png" src="excalidraw\board-28.6.png"><br>() - Parçalanmamış atomlarda<br>
+() - Parçalanan atomlarda<br><br>
+<br>Atom - güclü qarşılıqlı təsirdə iştirak edən zərrəciklərə deyilir.
+<br><br><br>
+<br>Heyger sayğacı - Zərbə ilə ionlaşma
+<br>Vilson sayğacı - İfrat doymuş buxarın kondensiyası
+<br>Qabarcıqlı kamera - İfrat qızmış mayedə buxar qabarcığının yaranması
+<br>Funksiyaları: Şüalanmanı və ya yüklü zərrəciyi qeyd etmək<br><br>Yüklü zərrəciyin trayektoriyası böyük olduqda intensivliyi böyük olur: <br><br>Yüklü zərrəciyin qoyduğu iz böyük olduqda yükü də böyük olur: <br><br>Proton, Neytron və Elektron stabil yüklü zərrəciklərdir.<br><br>
+<br>Qalınlaylı fotoemulsiya üsulu - Yüklü zərrəciyin fotolövhənin emulsiyasına göstərdiyi ionlaşdırıcı təsirə əsaslanır.
+]]></description><link>dərs-28.-atom-və-nüvə-fizikası..html</link><guid isPermaLink="false">Dərs 28. Atom və nüvə fizikası..md</guid><pubDate>Sat, 19 Apr 2025 07:38:49 GMT</pubDate><enclosure url="excalidraw\board-28.1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;excalidraw\board-28.1.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Dərs A. İstifadə olunmuş bəzi nəzəriyə və anlayışlar.]]></title><description><![CDATA[ 
  <br><br><img alt="Board A.1.png" src="excalidraw\board-a.1.png" style="width: 300px; max-width: 100%;"><br><br><br><br>Törəmə:  <br><br><br><br><img alt="Board A.2.png" src="excalidraw\board-a.2.png" style="width: 400px; max-width: 100%;"> <br>1)  ()<br>
 2) <br>
 3) <br>
