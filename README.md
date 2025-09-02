@@ -8,3 +8,7 @@ Bu resurs hələ ki sınaq mərhələsindədir. Ümid edirəm ki bu resurs sizin
 **Kənan tərəfindən <3 ilə hazırlandı.**
 
 Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/) kliklə ;)
+
+**Update (02.09.2025)** - Resursdakı bir çox kiçik səhvlərin aradan qaldırılması ilə bağlı uzun müddətdir ki məşğul oluram. Hələlik Resursun yarısı (Dərs 17 - yədək) hazırdır. Nəzərə alın ki, bu resurs tək bir şəxs tərəfindən hazırlandığı üçün səhvlərin olması tamamilə normaldır, lakin bu səhvləri düzəltmək bir qədər vaxt alır. Əgər hər hansı bir səhvlə qarşılaşsaz, mənə bildirməyiniz böyük bir köməklik olacaqdır. Sadəcə olan səhvi (dərsin nömrəsi və hansı hissədə olduğunu göstərmək şərtdir, şəkil də əlavə edə bilərsiniz) buradakı e-poçt adresinə göndərməyiniz kifayətdir: kenanelizade2007@protonmail.com
+
+**~ Kenan-E**
