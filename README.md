@@ -13,4 +13,4 @@ Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/) kl
 
 **Update (14.09.2025)** - Resurs 99% hazırdır. Şəkillərlə bağlı problemlər ola bilər (keyfiyyətsiz şəkillər). Lakin çalışdığım qədər bütün mexaniki və məntiq səhvlərini düzəltdim. Tək bir adam işlədiyi üçün yenə də səhvlər olacaq. Ona görə də mənə səhvləri (Dərsin nömrəsi və hansı hissədə olduğu, həmçinin səhvin olduğu şəkli) kenanelizade2007@protonmail.com mail adressinə göndərin. Hər kəsə yeni tədris ilində uğurlar arzulayıram. :)
 
-**~ Kenan-E**
+~**Kenan-E**
