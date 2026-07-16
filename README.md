@@ -10,6 +10,6 @@ Sonda demək istəyərdim ki, bu resursdan tam yararlanmaq üçün hər hissəni
 
 *Xoş oxumalar :)*
 
-**~ [Kenan-E](https://github.com/Kenan-E/)**
+~ [Kenan-E](https://github.com/Kenan-E/)
 
 **Qeyd**: Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/) kliklə
