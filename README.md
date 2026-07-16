@@ -12,4 +12,4 @@ Sonda demək istəyərdim ki, bu resursdan tam yararlanmaq üçün hər hissəni
 
 ~ [Kenan-E](https://github.com/Kenan-E/)
 
-**Qeyd**: Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/) kliklə
+**Qeyd**: Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/fizika-html.html) kliklə
