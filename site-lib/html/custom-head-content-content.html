@@ -1,8 +1,23 @@
 <style>
-@media print {
-  div {
-    display: grid
-  }
+/* Teqi düzgün şəkildə span olaraq hədəf alırıq */
+span.math.math-block.is-loaded {
+    display: block !important; /* span-ın scroll xassəsini qəbul etməsi üçün mütləqdir */
+    width: 100% !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Cədvəl formatında olan MathJax strukturları üçün */
+span.math.math-block.is-loaded mjx-container,
+span.math.math-block.is-loaded mjx-table {
+    min-width: max-content !important;
+}
+
+/* Daxildəki digər span elementlərinin sıxılmaması üçün */
+span.math.math-block.is-loaded span {
+    display: inline-block !important;
+    min-width: max-content !important;
 }
 
 /* Optional: prevent flicker during theme switches */
