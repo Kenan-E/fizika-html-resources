@@ -1,16 +1,15 @@
-# Fizika-html. Yeni nəsil öyrənmə platformu
+# Fizika-html
 
-Salam Əziz dost! Sən **Fizika-html** vasitəsilə yeni nəsil öyrənmə platformundan yararlana biləcəksən. 
+Salam! **Fizika-html**-ə xoş gəldin! 
 
-Bu platforma [Obsidian](https://www.obsidian.md) vasitəsilə [Markdown](https://en.wikipedia.org/wiki/Markdown) (.md) fayl sisteminə malikdir. Bu fayl sistemi bir çox yerdə (Məsələn [Wikipediada](https://az.wikipedia.org/wiki/Ana_s%C9%99hif%C9%99)) çox geniş istifadə olunur. Həmçinin buradakı düstur və riyazi yazılar [MathJax](https://www.mathjax.org/) vasitəsilə yığılmış, qrafiklər isə [Excalidraw](https://excalidraw.com/) vasitəsilə hazırlanmışdır. Sayt  [Webpage HTML export](https://github.com/KosmosisDire/obsidian-webpage-export) və [Github Pages](https://pages.github.com/) vasitəsilə sizə təqdim edilməkdədir. Bütün resursların hamısı bu səhifədə hamıya açıq formada yayınlanmaqdadır.
-Bu resurs hələ ki sınaq mərhələsindədir. Ümid edirəm ki bu resurs sizin üçün faydalı olacaq :)
+Bu material/resurs/konspekt mənim hobbi olaraq, məşğələ müəllimimin WhatsApp-dan atdığı yüzlərcə səhifəni daha oxunaqlı və gözəl görünən formada hazırladığım faylların sayt versiyasıdır. İki il ərzində öyrəndiyim yeni şeylər bu resursun daha da yaxşı olması üçün bütüm gücümlə çalışdım. Məqsəd, *sadə bir konspekt hazırlamaq və hər kəsə əlçatan etməkdir.* 
 
-**Kənan tərəfindən <3 ilə hazırlandı.**
+Kiçik bir etiraf edəcəm: Saytda tək əllə edilən şey fayllar və qrafiklərdir. Saytın ümumi hazırlanması avtomatlaşdırılmış proqram ilə edilib və süni intellektin köməyilə bəzi problemlər aradan qaldırlıb. 
 
-Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/fizika-html.-yeni-n%C9%99sil-%C3%B6yr%C9%99nm%C9%99-platformu..html) kliklə ;)
+Sonda demək istəyərdim ki, bu resursdan tam yararlanmaq üçün hər hissəni diqqətlə oxumağınızı tövsiyə edirəm. Əgər hər hansı bir problemlə üzləşsəz, github-dan "issue" aça bilərsiz.
 
-**Update (02.09.2025)** - Resursdakı bir çox kiçik səhvlərin aradan qaldırılması ilə bağlı uzun müddətdir ki məşğul oluram. Hələlik Resursun yarısı (Dərs 17 - yədək) hazırdır. Nəzərə alın ki, bu resurs tək bir şəxs tərəfindən hazırlandığı üçün səhvlərin olması tamamilə normaldır, lakin bu səhvləri düzəltmək bir qədər vaxt alır. Əgər hər hansı bir səhvlə qarşılaşsaz, mənə bildirməyiniz böyük bir köməklik olacaqdır. Sadəcə olan səhvi (dərsin nömrəsi və hansı hissədə olduğunu göstərmək şərtdir, şəkil də əlavə edə bilərsiniz) buradakı e-poçt adresinə göndərməyiniz kifayətdir: kenanelizade2007@protonmail.com
+*Xoş oxumalar :)*
 
-**Update (14.09.2025)** - Resurs 99% hazırdır. Şəkillərlə bağlı problemlər ola bilər (keyfiyyətsiz şəkillər). Lakin çalışdığım qədər bütün mexaniki və məntiq səhvlərini düzəltdim. Tək bir adam işlədiyi üçün yenə də səhvlər olacaq. Ona görə də mənə səhvləri (Dərsin nömrəsi və hansı hissədə olduğu, həmçinin səhvin olduğu şəkli) kenanelizade2007@protonmail.com mail adressinə göndərin. Hər kəsə yeni tədris ilində uğurlar arzulayıram. :)
+**~ [Kenan-E](https://github.com/Kenan-E/)**
 
-~**Kenan-E**
+**Qeyd**: Sayta giriş üçün [bura](https://kenan-e.github.io/fizika-html-resources/) kliklə
